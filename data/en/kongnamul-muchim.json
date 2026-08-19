@@ -1,0 +1,74 @@
+{
+  "title": "Seasoned Bean Sprouts",
+  "summary": "A side dish that lives or dies on its crunch. Get the boiling time and the rinse right and the rest takes care of itself.",
+  "category": "Side Dishes",
+  "difficulty": "Easy",
+  "tags": [
+    "namul",
+    "vegetarian",
+    "10 minutes"
+  ],
+  "intro": "There is a rule about boiling soybean sprouts: do not keep opening and closing the lid. If you started with the lid on, leave it on to the end; if you started with it off, leave it off.\n\nThe real reason is that a sudden drop in temperature leaves the beans smelling raw. Lid on, five minutes, no peeking is the simpler of the two.",
+  "ingredients": [
+    {
+      "group": "Main",
+      "items": [
+        {
+          "name": "Soybean sprouts (kongnamul)",
+          "amount": "300 g (10 1/2 oz)"
+        },
+        {
+          "name": "Water",
+          "amount": "200 mL (scant 1 cup)"
+        },
+        {
+          "name": "Salt (for boiling)",
+          "amount": "1 tsp (5 mL)"
+        }
+      ]
+    },
+    {
+      "group": "Seasoning",
+      "items": [
+        {
+          "name": "Garlic, minced",
+          "amount": "1 tsp (5 mL)"
+        },
+        {
+          "name": "Korean leek / large spring onion, finely chopped",
+          "amount": "1 Tbsp (15 mL)"
+        },
+        {
+          "name": "Toasted sesame oil",
+          "amount": "1 Tbsp (15 mL)"
+        },
+        {
+          "name": "Toasted sesame seeds",
+          "amount": "1 tsp (5 mL)"
+        },
+        {
+          "name": "Salt",
+          "amount": "1/2 tsp (2.5 mL)"
+        },
+        {
+          "name": "Korean chilli flakes (gochugaru), optional",
+          "amount": "1 tsp (5 mL)"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Soak the bean sprouts in water and skim off the loose bean skins and stray root hairs. There is no need to trim the roots themselves.",
+    "Put the sprouts, 200 mL (scant 1 cup) water and 1 tsp (5 mL) salt in a pot and cover with the lid.",
+    "Start it over high heat and, once steam rises, turn down to medium and leave for 5 minutes. Do not lift the lid during this time.",
+    "Drain in a colander. If you want them crisp, rinse quickly under cold water; if you want them soft, skip the rinse and let them cool as they are.",
+    "Squeeze out the water gently with your hands. Do not wring them hard the way you would spinach.",
+    "Put the sprouts in a bowl with the minced garlic, spring onion and salt, and toss by hand.",
+    "Add the sesame oil and sesame seeds and mix lightly once more. If you want it spicy, add the chilli flakes at this point."
+  ],
+  "tips": [
+    "Keep the cooking water instead of throwing it out; it works as the base for bean sprout soup (kongnamul-guk) or for instant noodle broth.",
+    "The dressed sprouts keep for up to 2 days in the fridge. After that they weep water and go soft.",
+    "Mung bean sprouts work in place of soybean sprouts, but 2 minutes is enough for them."
+  ]
+}
