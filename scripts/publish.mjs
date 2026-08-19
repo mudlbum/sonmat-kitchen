@@ -15,10 +15,13 @@ import { readFile, readdir, writeFile, unlink, mkdir, appendFile } from 'node:fs
 import { existsSync } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { imageFor } from './lib/images.mjs';
+import { CATEGORIES } from './lib/i18n.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const QUEUE_DIR = path.join(ROOT, 'data', 'recipes');
 const PUBLISHED_DIR = path.join(ROOT, 'content', 'published');
+const EN_DIR = path.join(ROOT, 'data', 'en');
 
 const cfg = JSON.parse(await readFile(path.join(ROOT, 'site.config.json'), 'utf8'));
 
@@ -94,10 +97,19 @@ if (!queue.length) {
 
 const take = queue.slice(0, count);
 const publishedTitles = [];
+const publishedTitlesEn = [];
+const photos = [];
 
 for (const file of take) {
   const src = path.join(QUEUE_DIR, file);
   const recipe = JSON.parse(await readFile(src, 'utf8'));
+
+  // The English edition lives in data/en/<slug>.json and stays there when the
+  // Korean file moves. It wins over any inline "en" block left in the recipe.
+  if (recipe.slug) {
+    const enPath = path.join(EN_DIR, `${recipe.slug}.json`);
+    if (existsSync(enPath)) recipe.en = JSON.parse(await readFile(enPath, 'utf8'));
+  }
 
   if (!recipe.slug) {
     console.error(`${file}: missing slug — refusing to publish`);
@@ -107,9 +119,46 @@ for (const file of take) {
     console.error(`${file}: already exists in content/published — refusing to overwrite`);
     process.exit(1);
   }
+  // A category with no entry in i18n.mjs has no English name and no photo pool,
+  // so it would break the build one step later — after this file had already
+  // been moved. Catch it before anything on disk changes.
+  if (!CATEGORIES[recipe.category]) {
+    console.error(`${file}: unknown category "${recipe.category}"`);
+    console.error(`  known: ${Object.keys(CATEGORIES).join(", ")}`);
+    console.error("  add it to CATEGORIES in scripts/lib/i18n.mjs and give it a pool in data/images.json");
+    process.exit(1);
+  }
+
+  // Both editions publish together or neither does. The build enforces this too,
+  // but failing here names the file and stops before anything is moved — much
+  // easier to read at 07:10 than a build error three steps later.
+  const enOk =
+    recipe.en &&
+    recipe.en.title &&
+    Array.isArray(recipe.en.steps) &&
+    recipe.en.steps.length === recipe.steps.length &&
+    Array.isArray(recipe.en.ingredients) &&
+    recipe.en.ingredients.length === recipe.ingredients.length;
+  if (!enOk) {
+    console.error(`${file}: no usable English edition — the English must publish with the Korean`);
+    console.error(`  add data/en/${recipe.slug}.json with title, summary, intro, ingredients and steps, matching the Korean counts`);
+    process.exit(1);
+  }
+
+  // Every recipe gets its own photograph. A hand-picked entry in
+  // data/images.json is preferred; failing that the category pool supplies one,
+  // chosen deterministically by slug so it never changes between builds.
+  const photo = imageFor(recipe);
+  if (!photo) {
+    console.error(`${file}: no photograph — add "${recipe.slug}" to data/images.json,`);
+    console.error(`  or add a byCategory pool for "${recipe.category}"`);
+    process.exit(1);
+  }
+  photos.push(`${photo.id}${photo.assigned ? "" : " (category pool)"}`);
 
   recipe.publishedAt = date;
   publishedTitles.push(recipe.title);
+  publishedTitlesEn.push(recipe.en.title);
 
   if (dryRun) {
     console.log(`[dry-run] ${file} → content/published/${file}  (publishedAt: ${date})`);
@@ -123,20 +172,20 @@ for (const file of take) {
   // original, and the build would then reject it for a missing publishedAt.
   await writeFile(path.join(PUBLISHED_DIR, file), `${JSON.stringify(recipe, null, 2)}\n`);
   await unlink(src);
-  console.log(`published ${recipe.title}  (${file})`);
+  console.log(`published ${recipe.title} / ${recipe.en.title}  (${file}, photo ${photo.id})`);
 }
 
 const remaining = (await listJson(QUEUE_DIR)).length;
 const needIssue = remaining < cfg.queueWarnThreshold;
 
 await setOutput('published_count', dryRun ? 0 : take.length);
-await setOutput('published_titles', publishedTitles.join(', '));
+await setOutput('published_titles', publishedTitles.map((t, i) => `${t} / ${publishedTitlesEn[i]}`).join(', '));
 await setOutput('queue_remaining', remaining);
 await setOutput('need_issue', needIssue);
 
 await summary(
   `### 오늘 발행\n\n` +
-    take.map((f, i) => `- **${publishedTitles[i]}** \`${f}\``).join('\n') +
+    take.map((f, i) => `- **${publishedTitles[i]}** / **${publishedTitlesEn[i]}** · 사진 ${photos[i]} · \`${f}\``).join('\n') +
     `\n\n대기열 **${remaining}개** 남음 (경고 기준 ${cfg.queueWarnThreshold}개)` +
     (needIssue ? '\n\n⚠ 기준 아래입니다 — 이슈를 엽니다.' : ''),
 );
