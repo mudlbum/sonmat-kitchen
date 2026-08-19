@@ -1,0 +1,72 @@
+{
+  "title": "Cold Soybean Noodle Soup",
+  "summary": "White soybeans soaked, boiled and blended. Boil them too long and they turn beany.",
+  "category": "Noodles",
+  "difficulty": "Medium",
+  "tags": [
+    "soybean",
+    "summer",
+    "somyeon"
+  ],
+  "intro": "Kong-guksu stands or falls on how long the beans boil. Under-boiled they taste beany; over-boiled they smell of meju, the dried fermented soybean block.\n\nSoaked beans go into boiling water for 8 minutes. The moment one crushes under your finger, lift them out. Anything past that is a loss.",
+  "ingredients": [
+    {
+      "group": "Soy broth",
+      "items": [
+        {
+          "name": "White soybeans (baektae)",
+          "amount": "200 g (7 oz, about 1 1/4 cups)"
+        },
+        {
+          "name": "Water (for blending)",
+          "amount": "700 mL (3 cups)"
+        },
+        {
+          "name": "Roasted peanuts or pine nuts",
+          "amount": "2 Tbsp (30 mL)"
+        },
+        {
+          "name": "Salt",
+          "amount": "1 tsp (5 mL)"
+        }
+      ]
+    },
+    {
+      "group": "Noodles and toppings",
+      "items": [
+        {
+          "name": "Thin wheat noodles (somyeon)",
+          "amount": "200 g (7 oz)"
+        },
+        {
+          "name": "Cucumber",
+          "amount": "1/2"
+        },
+        {
+          "name": "Cherry tomatoes (optional)",
+          "amount": "4"
+        },
+        {
+          "name": "Toasted sesame seeds",
+          "amount": "A pinch"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Rinse the soybeans and soak them in cold water: 6 hours in summer, 8 hours in winter. They are ready when they have swollen to twice their size.",
+    "Rub the soaked beans between your hands to slip the skins off. Pour off the skins as they float to the surface. Skinned beans give a much nuttier, finer broth.",
+    "Bring a generous amount of water to a boil, add the beans and boil for 8 minutes. Leave the lid off — it boils over easily.",
+    "Fish out one bean and press it with your finger. If it crushes with no resistance, drain them in a sieve straight away.",
+    "Rinse under cold water and cool them completely. Blending them while hot brings out a beany smell.",
+    "Blend the beans with 700 mL (3 cups) water, the peanuts and the salt for at least 2 minutes, until smooth. Rubbed between your fingertips it should feel free of any grit.",
+    "If the texture still bothers you, pass it once through a fine sieve. Chill it in the fridge for at least an hour.",
+    "Boil the somyeon, rinse and rub the noodles under cold water, and drain them well.",
+    "Put the noodles in a bowl and pour the cold soy broth over. Top with julienned cucumber and sesame seeds."
+  ],
+  "tips": [
+    "Rather than salting the broth in advance, it is better for each person to salt their own at the table. Once salted, soy broth tastes saltier as it stands.",
+    "Floating ice in it waters the broth down. Chill the soy broth thoroughly ahead of time instead.",
+    "Leftover soy broth keeps for up to 2 days in the fridge. If it separates, shake it and use it."
+  ]
+}
