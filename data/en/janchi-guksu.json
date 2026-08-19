@@ -1,0 +1,113 @@
+{
+  "title": "Banquet Noodles",
+  "summary": "Thin wheat noodles in anchovy broth with a spoonful of sauce on top. Rub the noodles under cold water the moment they are cooked.",
+  "category": "Noodles",
+  "difficulty": "Medium",
+  "tags": [
+    "somyeon",
+    "anchovy broth",
+    "one-bowl"
+  ],
+  "intro": "The broth for janchi-guksu should be clear, and the noodles should not be slippery. Neither is a matter of skill; both are a matter of order.\n\nRubbing the boiled noodles with your hands in cold water strips the starch off the surface, so it never clouds the broth.",
+  "ingredients": [
+    {
+      "group": "Broth",
+      "items": [
+        {
+          "name": "Water",
+          "amount": "1.2 L (5 cups)"
+        },
+        {
+          "name": "Dried anchovies for broth (myeolchi)",
+          "amount": "15"
+        },
+        {
+          "name": "Dried kelp (dasima / kombu)",
+          "amount": "two 5 x 5 cm (2 x 2 in) pieces"
+        },
+        {
+          "name": "Korean radish (mu), or daikon",
+          "amount": "100 g (3 1/2 oz)"
+        },
+        {
+          "name": "Root end of a Korean leek / large spring onion",
+          "amount": "from 1 stalk"
+        },
+        {
+          "name": "Soup soy sauce (guk-ganjang)",
+          "amount": "1 1/2 Tbsp (22 mL)"
+        },
+        {
+          "name": "Salt",
+          "amount": "a pinch"
+        }
+      ]
+    },
+    {
+      "group": "Noodles and toppings",
+      "items": [
+        {
+          "name": "Thin wheat noodles (somyeon)",
+          "amount": "200 g (7 oz)"
+        },
+        {
+          "name": "Korean zucchini (aehobak)",
+          "amount": "1/3"
+        },
+        {
+          "name": "Egg",
+          "amount": "1"
+        },
+        {
+          "name": "Shredded toasted seaweed (gim)",
+          "amount": "a little"
+        }
+      ]
+    },
+    {
+      "group": "Sauce",
+      "items": [
+        {
+          "name": "Soy sauce",
+          "amount": "2 Tbsp (30 mL)"
+        },
+        {
+          "name": "Korean chilli flakes (gochugaru)",
+          "amount": "1 tsp (5 mL)"
+        },
+        {
+          "name": "Garlic, minced",
+          "amount": "1/2 tsp (2.5 mL)"
+        },
+        {
+          "name": "Korean leek / large spring onion, finely chopped",
+          "amount": "1 Tbsp (15 mL)"
+        },
+        {
+          "name": "Toasted sesame oil",
+          "amount": "1 tsp (5 mL)"
+        },
+        {
+          "name": "Toasted sesame seeds",
+          "amount": "1 tsp (5 mL)"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Pull the heads and guts off the anchovies. Put the water, anchovies, kelp, radish and spring onion root into a pot and bring to the boil over medium heat.",
+    "Once it boils, lift out the kelp, boil for another 10 minutes, then strain out everything else.",
+    "Add the soup soy sauce to the broth and adjust the seasoning with salt. Broth that tastes slightly under-seasoned on its own will be right once the noodles are in it.",
+    "Cut the zucchini into fine matchsticks and fry for 2 minutes in an oiled pan with a pinch of salt.",
+    "Separate the egg, fry the white and the yolk into thin sheets and cut them into strips. If that is too much trouble, just beat the egg whole and fry it.",
+    "Mix all the sauce ingredients together.",
+    "Bring a generous pot of water to the boil and add the somyeon. Each time it threatens to boil over, pour in half a cup of cold water; do this twice. It takes a little over 3 minutes in all.",
+    "Lift the noodles into a colander and rub them with your hands in cold water. Rinse two or three times, until the water runs clear.",
+    "Coil the noodles into bowls and pour over the hot broth. Add the toppings and serve the sauce alongside."
+  ],
+  "tips": [
+    "Do not stir the sauce into the broth in advance; serve it separately. It is better to let each person adjust it themselves.",
+    "Somyeon cooks quickly. Take it out 20 seconds before the time on the packet - it keeps cooking in the broth.",
+    "Making the broth the day before and chilling it makes everything much easier."
+  ]
+}
