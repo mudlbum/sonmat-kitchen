@@ -1,0 +1,68 @@
+{
+  "title": "Potato Pancake",
+  "summary": "Nothing but grated potato, fried. The starch that settles out of the squeezed liquid holds the batter together without any flour.",
+  "category": "Pancakes",
+  "difficulty": "Medium",
+  "tags": [
+    "potato",
+    "snack",
+    "vegetarian"
+  ],
+  "intro": "You don't need flour in gamja-jeon because the potato brings its own starch. Squeeze the grated potato, let the liquid stand for 5 minutes, and white starch settles on the bottom. Stir that starch back in and the batter holds together.\n\nPancakes made this way are crisp outside and chewy inside. The texture is not the same as one made with flour.",
+  "ingredients": [
+    {
+      "group": "Main",
+      "items": [
+        {
+          "name": "Potatoes",
+          "amount": "3 medium (450 g / 1 lb)"
+        },
+        {
+          "name": "Salt",
+          "amount": "1/2 tsp (2.5 mL)"
+        },
+        {
+          "name": "Cooking oil",
+          "amount": "4 Tbsp (60 mL)"
+        },
+        {
+          "name": "Cheongyang chilli, optional (a serrano works)",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "group": "Vinegar soy dip",
+      "items": [
+        {
+          "name": "Soy sauce",
+          "amount": "1 Tbsp (15 mL)"
+        },
+        {
+          "name": "Vinegar",
+          "amount": "1 Tbsp (15 mL)"
+        },
+        {
+          "name": "Korean chilli flakes (gochugaru)",
+          "amount": "A pinch"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Peel the potatoes and grate them finely on the fine side of a box grater. If you use a blender, add no water and pulse in short bursts.",
+    "Tip the grated potato into a cloth or a fine sieve and squeeze the liquid out firmly. Don't throw the liquid away — catch it in a bowl.",
+    "Let the liquid stand for 5 minutes. White starch settles on the bottom.",
+    "Carefully pour off the water on top and stir the starch left on the bottom back into the squeezed potato.",
+    "Mix in 1/2 tsp (2.5 mL) salt. If you are using the Cheongyang chilli, chop it finely and mix it in as well.",
+    "Set a pan over medium heat and add a generous 2 Tbsp (30 mL) of the oil.",
+    "Spoon in a ladleful of batter at a time and spread it thin. If it is thick, the middle won't cook through.",
+    "Fry for about 4 minutes. Flip when the edges turn translucent and colour browns.",
+    "Pour the remaining oil around the edge of the pan and fry for 3 minutes more. Serve with the vinegar soy dip."
+  ],
+  "tips": [
+    "Grated potato browns quickly. Once you start grating, fry straight away. A slightly darker colour does no harm to the taste.",
+    "New potatoes hold less starch, so the batter comes out loose. Only in that case, add 1 Tbsp (15 mL) flour.",
+    "Skimp on the oil and the pancakes stick. Gamja-jeon is cooked half-way between pan-frying and deep-frying."
+  ]
+}
