@@ -1,0 +1,83 @@
+{
+  "title": "Kimchi Jjigae",
+  "summary": "A basic kimchi stew built on sour kimchi and pork shoulder. Frying the kimchi first is the whole trick.",
+  "category": "Stews",
+  "difficulty": "Easy",
+  "tags": [
+    "kimchi",
+    "pork",
+    "one-bowl"
+  ],
+  "intro": "Eighty percent of a kimchi jjigae's flavour is decided by the kimchi. Only kimchi that has been fermenting for more than a month and turned sour gives the broth any depth; with freshly made kimchi the stew stays bland no matter how long you simmer it.\n\nIf your kimchi is under-fermented, try half a teaspoon of vinegar instead of sugar. Imitating the sourness works better than covering it with sweetness.",
+  "ingredients": [
+    {
+      "group": "Main",
+      "items": [
+        {
+          "name": "Aged kimchi (mugeunji)",
+          "amount": "400 g (about 1/4 head, 14 oz)"
+        },
+        {
+          "name": "Pork shoulder",
+          "amount": "200 g (7 oz)"
+        },
+        {
+          "name": "Tofu",
+          "amount": "1/2 block (150 g)"
+        },
+        {
+          "name": "Korean leek / large spring onion",
+          "amount": "1/2 stalk"
+        },
+        {
+          "name": "Onion",
+          "amount": "1/4"
+        },
+        {
+          "name": "Rice-rinsing water or plain water",
+          "amount": "600 mL (2 1/2 cups)"
+        }
+      ]
+    },
+    {
+      "group": "Seasoning",
+      "items": [
+        {
+          "name": "Korean chilli flakes (gochugaru)",
+          "amount": "1 Tbsp (15 mL)"
+        },
+        {
+          "name": "Minced garlic",
+          "amount": "1 Tbsp (15 mL)"
+        },
+        {
+          "name": "Soup soy sauce (guk-ganjang)",
+          "amount": "1 Tbsp (15 mL)"
+        },
+        {
+          "name": "Sugar",
+          "amount": "1 tsp (5 mL)"
+        },
+        {
+          "name": "Cooking oil",
+          "amount": "1 Tbsp (15 mL)"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Cut the kimchi into 4 cm (1 1/2 in) strips without shaking off the seasoning clinging to it. Set aside 3 Tbsp (45 mL) of the kimchi brine.",
+    "Cut the pork into bite-sized pieces. If you cannot get shoulder, pork neck or belly also work.",
+    "Heat the oil in a pot over medium heat and fry the pork for 3 minutes, until the outside has turned white.",
+    "Add the kimchi and sugar and fry for 5 minutes more. It is ready when the edges of the kimchi turn translucent and the oil runs red. Skip this step and the broth never comes together.",
+    "Add the chilli flakes and minced garlic and fry for just 30 seconds to bring out the aroma. Chilli flakes burn easily, so do not leave them any longer.",
+    "Pour in the rice-rinsing water and the reserved kimchi brine and bring to the boil over high heat. Once it boils, lower the heat to medium-low, cover and leave for 15 minutes.",
+    "Cut the tofu into 1.5 cm (5/8 in) slices and add them, then lay the onion and the diagonally sliced leek on top. Simmer for 5 minutes more.",
+    "Season with soup soy sauce. Kimchi varies in saltiness from house to house, so start with 1/2 Tbsp and taste."
+  ],
+  "tips": [
+    "Use the water from the second rinse of the rice. The starch in it softens the broth. If you have none, use plain water and simmer 15 minutes longer instead.",
+    "You can leave out the meat and use canned tuna instead. Add it oil and all, skip the meat-frying step, fry only the kimchi, and stir the tuna in for the last 5 minutes.",
+    "Leftover stew tastes better the next day. The tofu goes soft, though, so only add as much as you will eat."
+  ]
+}
