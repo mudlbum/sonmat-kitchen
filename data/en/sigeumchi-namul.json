@@ -1,0 +1,67 @@
+{
+  "title": "Seasoned Spinach",
+  "summary": "Blanch, squeeze, dress. How hard you squeeze the water out is what decides the flavour.",
+  "category": "Side Dishes",
+  "difficulty": "Easy",
+  "tags": [
+    "greens",
+    "vegetarian",
+    "10 minutes"
+  ],
+  "intro": "Seasoned spinach turns soggy and bland for two reasons, usually: it was blanched too long, or it was not squeezed dry enough.\n\nThe blanching time is 30 seconds. Drop the spinach in, turn it once with chopsticks, and that is the time.",
+  "ingredients": [
+    {
+      "group": "Main",
+      "items": [
+        {
+          "name": "Spinach",
+          "amount": "1 bunch (300 g, about 10 oz)"
+        },
+        {
+          "name": "Salt (for the blanching water)",
+          "amount": "1 Tbsp (15 mL)"
+        }
+      ]
+    },
+    {
+      "group": "Seasoning",
+      "items": [
+        {
+          "name": "Soup soy sauce (guk-ganjang)",
+          "amount": "1 Tbsp (15 mL)"
+        },
+        {
+          "name": "Minced garlic",
+          "amount": "1 tsp (5 mL)"
+        },
+        {
+          "name": "Toasted sesame oil",
+          "amount": "1 Tbsp (15 mL)"
+        },
+        {
+          "name": "Toasted sesame seeds",
+          "amount": "1 tsp (5 mL)"
+        },
+        {
+          "name": "Salt",
+          "amount": "a pinch"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Scrape the soil off the root ends of the spinach with the tip of a knife, and if the roots are thick, score them with a cross.",
+    "Soak the spinach in water and swish it around, three times over. Grit between the leaves does not come out easily, so submerge and swish rather than rinsing under a tap.",
+    "Bring a generous pot of water to a rolling boil and add 1 Tbsp (15 mL) salt.",
+    "Lower the spinach in root end first and blanch for 30 seconds. Lift it out as soon as the leaves turn deep green.",
+    "Rinse under cold water until all the heat is gone. If it stays lukewarm it keeps cooking and goes limp.",
+    "Squeeze it firmly with both hands, until no more water drips out, then cut into 4 cm (1 1/2 in) lengths.",
+    "Put the spinach in a bowl, add the soup soy sauce and minced garlic first, and work them through with your hands.",
+    "Add the sesame oil and sesame seeds and toss lightly. Taste, and top up with salt if it needs it."
+  ],
+  "tips": [
+    "Keep the order: soup soy sauce first, sesame oil after. If the sesame oil coats the leaves first, the seasoning cannot get in.",
+    "Winter spinach such as pohangcho has sweet roots, so keep them on and dress them along with the leaves.",
+    "Blanched spinach keeps for up to 3 days in the fridge once squeezed. Dress it only just before you eat it."
+  ]
+}
