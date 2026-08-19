@@ -1,0 +1,59 @@
+{
+  "title": "Rolled Omelette",
+  "summary": "The staple lunchbox side dish. Keep the heat low and roll it in three passes and it will hold its shape.",
+  "category": "Side Dishes",
+  "difficulty": "Easy",
+  "tags": [
+    "egg",
+    "lunchbox",
+    "10 minutes"
+  ],
+  "intro": "A rolled omelette tears mostly because the heat is too high. When the pan is hot the underside sets while the top is still runny, so the layers slide against each other instead of sticking as you roll.\n\nThe trick is to work slowly over low heat and roll while the top is still half set.",
+  "ingredients": [
+    {
+      "group": "Main",
+      "items": [
+        {
+          "name": "Eggs",
+          "amount": "4"
+        },
+        {
+          "name": "Carrot",
+          "amount": "1/6 carrot (30 g)"
+        },
+        {
+          "name": "White part of a Korean leek / large spring onion",
+          "amount": "5 cm (2 in)"
+        },
+        {
+          "name": "Salt",
+          "amount": "1/3 tsp"
+        },
+        {
+          "name": "Water or milk",
+          "amount": "2 Tbsp (30 mL)"
+        },
+        {
+          "name": "Cooking oil",
+          "amount": "1 Tbsp (15 mL)"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Chop the carrot and leek very finely. Coarse pieces force the layers apart as you roll.",
+    "Break the eggs into a bowl, add the salt and water, and mix with chopsticks in a cutting motion. Do not whisk them to a foam.",
+    "Pass the mixture through a sieve once. This catches the stringy chalazae and gives a smooth surface. You can skip it; the taste is the same.",
+    "Stir the chopped vegetables into the egg mixture.",
+    "Set a rectangular pan over low heat, add the oil, then wipe it out with kitchen paper so only a thin film remains.",
+    "Pour in a third of the egg mixture and spread it thinly over the base of the pan. When the top is half set with only a little moisture left, roll it up from one side.",
+    "Push the roll to one side of the pan, pour another third of the egg mixture into the empty space, and let some of it run under the roll. When it is half set again, roll it up.",
+    "Repeat once more with the remaining egg mixture. Once it is all rolled, press the sides against the pan to shape it.",
+    "Move it to a board, let it cool for 1 minute, then cut into 2 cm (3/4 in) slices. Cutting it hot squashes the cut faces."
+  ],
+  "tips": [
+    "The 2 Tbsp (30 mL) of water is there for tenderness. Milk makes it moister but also more likely to tear, so use water the first time.",
+    "A small round pan works if you do not have a rectangular one. Trim off the rounded ends and it looks right.",
+    "Lay a sheet of roasted seaweed (gim) down before rolling and each slice gets a dark ring, which looks good in a lunchbox."
+  ]
+}
