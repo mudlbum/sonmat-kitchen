@@ -26,27 +26,34 @@ the publisher adds.
     { "group": "주재료", "items": [ { "name": "묵은지", "amount": "400g" } ] }
   ],
   "steps": ["첫 단계.", "둘째 단계."],  // required
-  "tips": ["알아두면 좋은 것."],        // optional
-
-  "en": {                          // REQUIRED — the English edition publishes with the Korean
-    "title": "Kimchi Jjigae",
-    "summary": "One-line summary.",
-    "category": "Stews",           // must match the table in scripts/lib/i18n.mjs
-    "difficulty": "Easy",          // Easy / Medium / Hard
-    "tags": ["kimchi", "pork"],
-    "intro": "Up to two paragraphs.\n\nSplit on a blank line.",
-    "ingredients": [
-      { "group": "Main", "items": [ { "name": "Aged kimchi (mugeunji)", "amount": "400 g (14 oz)" } ] }
-    ],
-    "steps": ["First step.", "Second step."],
-    "tips": ["Worth knowing."]
-  }
+  "tips": ["알아두면 좋은 것."]         // optional
 }
 ```
 
 `publishedAt` is **not** set by hand — `scripts/publish.mjs` adds it.
 
-### The `en` block is not optional
+### The English edition is not optional
+
+The English lives in its own file, [`../en/<slug>.json`](../en), so a translator
+edits one file without touching the Korean and the English never has to move
+when a recipe publishes.
+
+```jsonc
+// data/en/kimchi-jjigae.json
+{
+  "title": "Kimchi Jjigae",
+  "summary": "One-line summary.",
+  "category": "Stews",          // must match the table in scripts/lib/i18n.mjs
+  "difficulty": "Easy",         // Easy / Medium / Hard
+  "tags": ["kimchi", "pork"],
+  "intro": "Up to two paragraphs.\n\nSplit on a blank line.",
+  "ingredients": [
+    { "group": "Main", "items": [ { "name": "Aged kimchi (mugeunji)", "amount": "400 g (14 oz)" } ] }
+  ],
+  "steps": ["First step.", "Second step."],
+  "tips": ["Worth knowing."]
+}
+```
 
 `steps`, `tips` and `ingredients` must have the **same number of entries** as the
 Korean, in the same order. Both `publish.mjs` and `build.mjs` refuse a recipe
@@ -75,7 +82,7 @@ page.
 ## Adding one
 
 1. Copy an existing file and renumber it past the highest current prefix.
-2. Edit both the Korean and the `en` block.
+2. Edit the Korean, then write the English at `data/en/<slug>.json`.
 3. Optionally add a photo to `data/images.json`.
 4. `node scripts/build.mjs && node scripts/check.mjs` — the build validates every
    queued recipe too, so a mistake surfaces immediately rather than at 07:10 some
