@@ -1,0 +1,75 @@
+{
+  "title": "Bean Sprout Soup",
+  "summary": "Soybean sprouts simmered in anchovy stock, and nothing more. The fewer the ingredients, the more the cooking has to be right.",
+  "category": "Soups",
+  "difficulty": "Easy",
+  "tags": [
+    "soybean sprouts",
+    "hangover",
+    "15 minutes"
+  ],
+  "intro": "Bean sprout soup has only three ingredients, so there is nowhere to hide. Make the stock properly, and once the sprouts go in, do not lift the lid — that is the whole recipe.\n\nThe garlic goes in at the end so the broth does not turn cloudy.",
+  "ingredients": [
+    {
+      "group": "Broth",
+      "items": [
+        {
+          "name": "Water",
+          "amount": "1 L (4 1/4 cups)"
+        },
+        {
+          "name": "Dried anchovies for stock (guk-myeolchi)",
+          "amount": "12"
+        },
+        {
+          "name": "Dried kelp (dasima / kombu)",
+          "amount": "one 5 x 5 cm (2 x 2 in) piece"
+        }
+      ]
+    },
+    {
+      "group": "Main",
+      "items": [
+        {
+          "name": "Soybean sprouts (kongnamul)",
+          "amount": "250 g (9 oz)"
+        },
+        {
+          "name": "Korean leek / large spring onion",
+          "amount": "1/2"
+        },
+        {
+          "name": "Minced garlic",
+          "amount": "1 tsp (5 mL)"
+        },
+        {
+          "name": "Soup soy sauce (guk-ganjang)",
+          "amount": "1 Tbsp (15 mL)"
+        },
+        {
+          "name": "Salt",
+          "amount": "a pinch"
+        },
+        {
+          "name": "Korean chilli flakes (gochugaru), optional",
+          "amount": "1 tsp (5 mL)"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Pull the heads and guts off the anchovies. Put the water, anchovies and kelp in a pot and bring to a boil over medium heat.",
+    "Once it boils, lift out the kelp, boil for 7 minutes more, then take out the anchovies as well.",
+    "Rinse the soybean sprouts and pick off the loose husks.",
+    "Add the sprouts to the stock, cover, and bring to a boil over high heat.",
+    "Once it boils, turn the heat down to medium and leave it for 6 minutes. Do not lift the lid during this time.",
+    "Take off the lid and add the soup soy sauce. Taste and adjust with salt.",
+    "Add the diagonally sliced Korean leek and the minced garlic, boil for 1 minute more, then turn off the heat.",
+    "For a spicier bowl, add the chilli flakes at the very end."
+  ],
+  "tips": [
+    "Opening and closing the lid partway through leaves a raw bean smell. Once it is covered, leave it alone for the full 6 minutes.",
+    "For a hangover soup, season with 1 tsp (5 mL) salted shrimp (saeu-jeot) and slice in one cheongyang chilli.",
+    "If you plan to spoon rice into it, season the broth slightly on the light side."
+  ]
+}
