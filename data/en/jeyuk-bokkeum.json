@@ -1,0 +1,99 @@
+{
+  "title": "Spicy Stir-fried Pork",
+  "summary": "Pork marinated in a gochujang sauce and stir-fried over high heat. Thirty minutes in the marinade is enough.",
+  "category": "Stir-fries",
+  "difficulty": "Medium",
+  "tags": [
+    "pork",
+    "gochujang",
+    "spicy"
+  ],
+  "intro": "The most common reason this turns out tough is putting all the pork in at once. The pan temperature drops, the meat boils in its own liquid instead of searing, and by the time that liquid has cooked off the proteins have already tightened.\n\nIf your pan is small, cook it in two batches. That one change alone gives a different result.",
+  "ingredients": [
+    {
+      "group": "Main",
+      "items": [
+        {
+          "name": "Pork shoulder, thinly sliced (bulgogi cut)",
+          "amount": "500 g (1 lb 2 oz)"
+        },
+        {
+          "name": "Onion",
+          "amount": "1"
+        },
+        {
+          "name": "Korean leek / large spring onion",
+          "amount": "1 stalk"
+        },
+        {
+          "name": "Cheongyang chillies (or serrano)",
+          "amount": "2"
+        },
+        {
+          "name": "Cooking oil",
+          "amount": "1 Tbsp (15 mL)"
+        },
+        {
+          "name": "Toasted sesame seeds",
+          "amount": "a pinch"
+        }
+      ]
+    },
+    {
+      "group": "Sauce",
+      "items": [
+        {
+          "name": "Korean chilli paste (gochujang)",
+          "amount": "2 Tbsp (30 mL)"
+        },
+        {
+          "name": "Korean chilli flakes (gochugaru)",
+          "amount": "2 Tbsp (30 mL)"
+        },
+        {
+          "name": "Soy sauce",
+          "amount": "2 Tbsp (30 mL)"
+        },
+        {
+          "name": "Sugar",
+          "amount": "1 Tbsp (15 mL)"
+        },
+        {
+          "name": "Minced garlic",
+          "amount": "1 Tbsp (15 mL)"
+        },
+        {
+          "name": "Minced ginger",
+          "amount": "1/2 tsp (2.5 mL)"
+        },
+        {
+          "name": "Cooking wine (matsul, or mirin)",
+          "amount": "2 Tbsp (30 mL)"
+        },
+        {
+          "name": "Toasted sesame oil",
+          "amount": "1 Tbsp (15 mL)"
+        },
+        {
+          "name": "Ground black pepper",
+          "amount": "a pinch"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Mix all the sauce ingredients together. You can add the sesame oil now or drizzle it in at the end.",
+    "Add the sauce to the pork and work it in with your hands. Marinate for 30 minutes in the fridge. Overnight gets more flavour in, but it comes out that much saltier.",
+    "Cut the onion into thick strips, and slice the leek and the chillies on the diagonal.",
+    "Set the pan over high heat and let it get thoroughly hot, then add the oil. It should be just starting to smoke.",
+    "Add the pork and spread it out. Leave it untouched for 30 seconds so the underside sears.",
+    "Turn it and stir-fry for 3 to 4 minutes. If the pork fills the pan, cook it in two halves and set the first batch aside.",
+    "Add the onion and fry for 2 minutes. It is best when the onion has wilted but is still crisp.",
+    "Add the leek and chillies and fry for 1 minute more. Turn off the heat and scatter over the sesame oil and sesame seeds."
+  ],
+  "tips": [
+    "Shoulder is the standard cut, but neck is more tender, while belly is fatty enough that the sauce slides off it.",
+    "For less heat, cut the chilli flakes to 1 Tbsp (15 mL) and use mild green chillies in place of the cheongyang. Do not reduce the gochujang. You lose the sweetness and the body along with it.",
+    "If you are serving it in lettuce wraps, scale each sauce ingredient back by half a tablespoon so the seasoning stays light."
+  ]
+}
