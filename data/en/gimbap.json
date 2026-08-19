@@ -1,0 +1,85 @@
+{
+  "title": "Gimbap",
+  "summary": "Seasoning the rice and judging how hard you roll is the whole job. For the filling, use what you have.",
+  "category": "Rice",
+  "difficulty": "Medium",
+  "tags": [
+    "gim",
+    "lunchbox",
+    "picnic"
+  ],
+  "intro": "Gimbap splits open or falls apart mostly because there is too much filling, or because the rice is spread too thick.\n\nSpread the rice thin enough that the seaweed shows through, and per sheet use only as much filling as you can gather into a bundle the thickness of your little finger. Those two things fix most of it.",
+  "ingredients": [
+    {
+      "group": "Rice",
+      "items": [
+        {
+          "name": "Warm cooked short-grain rice",
+          "amount": "3 bowls (600 g / 1 lb 5 oz)"
+        },
+        {
+          "name": "Toasted sesame oil",
+          "amount": "1 1/2 Tbsp (22 mL)"
+        },
+        {
+          "name": "Salt",
+          "amount": "1 tsp (5 mL)"
+        },
+        {
+          "name": "Toasted sesame seeds",
+          "amount": "1 Tbsp (15 mL)"
+        }
+      ]
+    },
+    {
+      "group": "Filling",
+      "items": [
+        {
+          "name": "Seaweed sheets (gim), gimbap size",
+          "amount": "4 sheets"
+        },
+        {
+          "name": "Pickled radish (danmuji)",
+          "amount": "4 strips"
+        },
+        {
+          "name": "Eggs",
+          "amount": "4"
+        },
+        {
+          "name": "Carrot",
+          "amount": "1"
+        },
+        {
+          "name": "Spinach",
+          "amount": "150 g (5 oz)"
+        },
+        {
+          "name": "Imitation crab sticks",
+          "amount": "4"
+        },
+        {
+          "name": "Braised burdock (optional)",
+          "amount": "4 strips"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Add the sesame oil, salt and sesame seeds to the warm rice and fold them through with a rice paddle, cutting rather than stirring. Do not mash the grains. Let it cool for a moment.",
+    "Beat the eggs with a pinch of salt, fry them into a thick omelette, then cut it lengthwise into 1 cm (1/2 in) wide strips.",
+    "Cut the carrot into fine matchsticks and stir-fry them in an oiled pan with a pinch of salt for 2 minutes.",
+    "Blanch the spinach for 30 seconds, rinse it in cold water, squeeze it dry and season it with salt and sesame oil.",
+    "Pat the pickled radish dry, and split the crab sticks in half along the grain. Getting the moisture out of the fillings matters.",
+    "Lay a sheet of gim on a bamboo mat, rough side up.",
+    "Spread the rice thin, leaving the top 3 cm (1 1/4 in) of the sheet bare. It is right when the seaweed shows faintly through.",
+    "Line the fillings up neatly across the lower third of the rice.",
+    "Using the mat, press the fillings in as if wrapping your arms around them and roll once, then press the seam shut with your hands. Do not squeeze hard at the end — finish with even pressure.",
+    "Brush the outside lightly with sesame oil and cut into 2 cm (3/4 in) slices with a sharp knife. Wetting or oiling the blade keeps it from sticking."
+  ],
+  "tips": [
+    "If the rice is hot the seaweed goes soggy, and if it is cold it will not stick. Lukewarm is best.",
+    "Cut with a sawing motion, pushing back and forth. Pressing down from above shoves the filling out.",
+    "For a picnic, leave out watery fillings like cucumber and crab sticks. Given time they make the seaweed damp."
+  ]
+}
