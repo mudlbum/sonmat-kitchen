@@ -1,0 +1,91 @@
+{
+  "title": "Bulgogi",
+  "summary": "A soy sauce marinade with grated pear and onion. Blot the blood from the beef before it goes in.",
+  "category": "Grilled",
+  "difficulty": "Medium",
+  "tags": [
+    "beef",
+    "soy sauce",
+    "entertaining"
+  ],
+  "intro": "Pear goes into bulgogi marinade for more than sweetness. The protein-digesting enzymes in pear tenderise the meat.\n\nLeave it too long, though, and the beef turns mushy and the texture is gone. If there is pear in the marinade, it is better not to go past an hour.",
+  "ingredients": [
+    {
+      "group": "Main",
+      "items": [
+        {
+          "name": "Thinly sliced beef for bulgogi (sirloin or top round)",
+          "amount": "600 g (1 lb 5 oz)"
+        },
+        {
+          "name": "Onion",
+          "amount": "1"
+        },
+        {
+          "name": "Carrot",
+          "amount": "1/3"
+        },
+        {
+          "name": "Korean leek / large spring onion",
+          "amount": "1 stalk"
+        },
+        {
+          "name": "Shiitake mushrooms",
+          "amount": "3"
+        }
+      ]
+    },
+    {
+      "group": "Sauce",
+      "items": [
+        {
+          "name": "Soy sauce",
+          "amount": "5 Tbsp (75 mL)"
+        },
+        {
+          "name": "Korean pear (bae), grated (Asian or nashi pear)",
+          "amount": "4 Tbsp (60 mL), about 1/4 pear"
+        },
+        {
+          "name": "Onion, grated",
+          "amount": "3 Tbsp (45 mL)"
+        },
+        {
+          "name": "Sugar",
+          "amount": "1 1/2 Tbsp (22 mL)"
+        },
+        {
+          "name": "Garlic, minced",
+          "amount": "1 1/2 Tbsp (22 mL)"
+        },
+        {
+          "name": "Cooking rice wine (matsul, or mirin)",
+          "amount": "2 Tbsp (30 mL)"
+        },
+        {
+          "name": "Toasted sesame oil",
+          "amount": "1 Tbsp (15 mL)"
+        },
+        {
+          "name": "Ground black pepper",
+          "amount": "1/2 tsp (2.5 mL)"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Press the beef with kitchen paper to draw off the blood. If it is left in, the marinade sits on the surface and the meat tastes gamey.",
+    "Grate the pear and part of the onion finely, on a grater or in a blender.",
+    "Mix all the sauce ingredients and stir until the sugar has dissolved.",
+    "Pour the sauce over the beef and work it in with your hands. Marinate in the fridge for 40 minutes to 1 hour.",
+    "Cut the onion into thick strips and the carrot thin, slice the shiitake, and cut the spring onion on the diagonal.",
+    "Heat a pan over high heat. Do not add oil - there is already sesame oil in the marinade.",
+    "Spread the beef out in the pan and leave it alone for 2 minutes. Turn it once liquid starts to gather.",
+    "Add all the vegetables and stir-fry for 3-4 minutes. It is done when the liquid has reduced to a shallow pool."
+  ],
+  "tips": [
+    "If you want plenty of broth, add 100 mL (scant 1/2 cup) water along with the vegetables and let it simmer rather than fry. That gives you hot-pot style bulgogi.",
+    "With frozen bulgogi beef, do not thaw it all the way; marinate it while it is still slightly frozen and the slices keep their shape.",
+    "Leftover bulgogi can be mixed through rice or used as a filling for gimbap."
+  ]
+}
