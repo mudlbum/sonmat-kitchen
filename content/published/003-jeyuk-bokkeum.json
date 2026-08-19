@@ -52,7 +52,7 @@
           "amount": "2큰술"
         },
         {
-          "name": "고춧가루",
+          "name": "고쵧가루",
           "amount": "2큰술"
         },
         {
@@ -80,7 +80,7 @@
           "amount": "1큰술"
         },
         {
-          "name": "후춧가루",
+          "name": "후쵧가루",
           "amount": "약간"
         }
       ]
@@ -91,15 +91,114 @@
     "돼지고기에 양념장을 넣고 손으로 조물조물 무칩니다. 냉장고에서 30분 재웁니다. 하룻밤 재우면 더 배지만 그만큼 짜집니다.",
     "양파는 굵게 채 썰고, 대파와 청양고추는 어슷 썹니다.",
     "팬을 센불에 올려 충분히 달군 뒤 식용유를 두릅니다. 연기가 살짝 오를 정도여야 합니다.",
-    "고기를 넣고 펼칩니다. 30초는 건드리지 않고 그대로 두어 바닥면을 굽습니다.",
+    "고기를 넣고 펼칩니다. 30초는 건드리지 않고 그대로 두어 바닥면을 괽습니다.",
     "뒤집어 가며 3~4분 볶습니다. 고기가 팬에 꽉 차면 절반씩 나눠 볶고 먼저 볶은 것은 덜어 둡니다.",
     "양파를 넣고 2분 볶습니다. 양파가 숨이 죽되 아직 아삭할 때가 좋습니다.",
     "대파와 청양고추를 넣고 1분 더 볶습니다. 불을 끄고 참기름과 통깨를 뿌립니다."
   ],
   "tips": [
-    "앞다리살이 기본이지만 목살이 부드럽고, 삼겹살은 기름이 많아 양념이 겉돕니다.",
-    "덜 맵게 하려면 고춧가루를 1큰술로 줄이고 청양고추 대신 풋고추를 씁니다. 고추장은 줄이지 마세요. 단맛과 농도를 같이 잃습니다.",
-    "상추쌈으로 먹을 거라면 양념을 반 큰술씩 줄여 간을 약하게 잡습니다."
+    "앞다리살이 기본이지만 목살이 부드럽고, 삼겹살은 기름이 많아 양념이 겉뙩니다.",
+    "덜 맵게 하려면 고쵧가루를 1큰술로 줄이고 청양고추 대신 풋고추를 씁니다. 고추장은 줄이지 마세요. 단맛과 농도를 같이 잃습니다.",
+    "상추쌂으로 먹을 거라면 양념을 반 큰술씩 줄여 간을 약하게 잡습니다."
   ],
-  "publishedAt": "2026-08-19"
+  "publishedAt": "2026-08-19",
+  "en": {
+    "title": "Spicy Stir-fried Pork",
+    "summary": "Pork marinated in a gochujang sauce and stir-fried over high heat. Thirty minutes in the marinade is enough.",
+    "category": "Stir-fries",
+    "difficulty": "Medium",
+    "tags": [
+      "pork",
+      "gochujang",
+      "spicy"
+    ],
+    "intro": "The most common reason this turns out tough is putting all the pork in at once. The pan temperature drops, the meat boils in its own liquid instead of searing, and by the time that liquid has cooked off the proteins have already tightened.\n\nIf your pan is small, cook it in two batches. That one change alone gives a different result.",
+    "ingredients": [
+      {
+        "group": "Main",
+        "items": [
+          {
+            "name": "Pork shoulder, thinly sliced (bulgogi cut)",
+            "amount": "500 g (1 lb 2 oz)"
+          },
+          {
+            "name": "Onion",
+            "amount": "1"
+          },
+          {
+            "name": "Korean leek / large spring onion",
+            "amount": "1 stalk"
+          },
+          {
+            "name": "Cheongyang chillies (or serrano)",
+            "amount": "2"
+          },
+          {
+            "name": "Cooking oil",
+            "amount": "1 Tbsp (15 mL)"
+          },
+          {
+            "name": "Toasted sesame seeds",
+            "amount": "a pinch"
+          }
+        ]
+      },
+      {
+        "group": "Sauce",
+        "items": [
+          {
+            "name": "Korean chilli paste (gochujang)",
+            "amount": "2 Tbsp (30 mL)"
+          },
+          {
+            "name": "Korean chilli flakes (gochugaru)",
+            "amount": "2 Tbsp (30 mL)"
+          },
+          {
+            "name": "Soy sauce",
+            "amount": "2 Tbsp (30 mL)"
+          },
+          {
+            "name": "Sugar",
+            "amount": "1 Tbsp (15 mL)"
+          },
+          {
+            "name": "Minced garlic",
+            "amount": "1 Tbsp (15 mL)"
+          },
+          {
+            "name": "Minced ginger",
+            "amount": "1/2 tsp (2.5 mL)"
+          },
+          {
+            "name": "Cooking wine (matsul, or mirin)",
+            "amount": "2 Tbsp (30 mL)"
+          },
+          {
+            "name": "Toasted sesame oil",
+            "amount": "1 Tbsp (15 mL)"
+          },
+          {
+            "name": "Ground black pepper",
+            "amount": "a pinch"
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Mix all the sauce ingredients together. You can add the sesame oil now or drizzle it in at the end.",
+      "Add the sauce to the pork and work it in with your hands. Marinate for 30 minutes in the fridge. Overnight gets more flavour in, but it comes out that much saltier.",
+      "Cut the onion into thick strips, and slice the leek and the chillies on the diagonal.",
+      "Set the pan over high heat and let it get thoroughly hot, then add the oil. It should be just starting to smoke.",
+      "Add the pork and spread it out. Leave it untouched for 30 seconds so the underside sears.",
+      "Turn it and stir-fry for 3 to 4 minutes. If the pork fills the pan, cook it in two halves and set the first batch aside.",
+      "Add the onion and fry for 2 minutes. It is best when the onion has wilted but is still crisp.",
+      "Add the leek and chillies and fry for 1 minute more. Turn off the heat and scatter over the sesame oil and sesame seeds."
+    ],
+    "tips": [
+      "Shoulder is the standard cut, but neck is more tender, while belly is fatty enough that the sauce slides off it.",
+      "For less heat, cut the chilli flakes to 1 Tbsp (15 mL) and use mild green chillies in place of the cheongyang. Do not reduce the gochujang. You lose the sweetness and the body along with it.",
+      "If you are serving it in lettuce wraps, scale each sauce ingredient back by half a tablespoon so the seasoning stays light."
+    ]
+  }
 }
