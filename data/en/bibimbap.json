@@ -1,0 +1,121 @@
+{
+  "title": "Bibimbap",
+  "summary": "Four seasoned vegetables and a gochujang sauce. Make the vegetables the night before and the morning takes 5 minutes.",
+  "category": "Rice",
+  "difficulty": "Medium",
+  "tags": [
+    "seasoned greens",
+    "gochujang",
+    "one-bowl"
+  ],
+  "intro": "Bibimbap is not a difficult dish, it is a fiddly one. Each seasoned vegetable takes 5 minutes on its own; it is doing four of them at once that feels like a lot.\n\nGathering up leftover vegetable side dishes is how this food was made in the first place. There is no need to make everything from scratch.",
+  "ingredients": [
+    {
+      "group": "Rice and toppings",
+      "items": [
+        {
+          "name": "Hot cooked rice",
+          "amount": "2 bowls"
+        },
+        {
+          "name": "Spinach",
+          "amount": "150 g (5 oz)"
+        },
+        {
+          "name": "Soybean sprouts (kongnamul)",
+          "amount": "150 g (5 oz)"
+        },
+        {
+          "name": "Korean courgette (aehobak; a young courgette / zucchini works)",
+          "amount": "1/2"
+        },
+        {
+          "name": "Carrot",
+          "amount": "1/2"
+        },
+        {
+          "name": "Shiitake mushrooms",
+          "amount": "3"
+        },
+        {
+          "name": "Eggs",
+          "amount": "2"
+        },
+        {
+          "name": "Minced beef (optional)",
+          "amount": "100 g (3 1/2 oz)"
+        }
+      ]
+    },
+    {
+      "group": "Shared seasoning for the greens",
+      "items": [
+        {
+          "name": "Soup soy sauce (guk-ganjang)",
+          "amount": "1 Tbsp (15 mL)"
+        },
+        {
+          "name": "Minced garlic",
+          "amount": "1 tsp (5 mL)"
+        },
+        {
+          "name": "Toasted sesame oil",
+          "amount": "2 Tbsp (30 mL)"
+        },
+        {
+          "name": "Salt",
+          "amount": "to taste"
+        }
+      ]
+    },
+    {
+      "group": "Bibim sauce",
+      "items": [
+        {
+          "name": "Korean chilli paste (gochujang)",
+          "amount": "3 Tbsp (45 mL)"
+        },
+        {
+          "name": "Sugar",
+          "amount": "1 Tbsp (15 mL)"
+        },
+        {
+          "name": "Vinegar",
+          "amount": "1 Tbsp (15 mL)"
+        },
+        {
+          "name": "Minced garlic",
+          "amount": "1 tsp (5 mL)"
+        },
+        {
+          "name": "Toasted sesame oil",
+          "amount": "1 Tbsp (15 mL)"
+        },
+        {
+          "name": "Toasted sesame seeds",
+          "amount": "1 Tbsp (15 mL)"
+        },
+        {
+          "name": "Water",
+          "amount": "1 Tbsp (15 mL)"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Mix all the sauce ingredients together. The 1 Tbsp (15 mL) of water is there to loosen the paste, so adjust it as you watch the consistency.",
+    "Blanch the spinach in boiling salted water for 30 seconds, rinse it in cold water, squeeze it dry and dress it with soup soy sauce, garlic and sesame oil.",
+    "Cook the soybean sprouts in 200 mL (scant 1 cup) water with salt, covered, for 5 minutes, then dress them with salt, garlic and sesame oil.",
+    "Cut the courgette into matchsticks and stir-fry it with a pinch of salt in an oiled pan for 2 minutes.",
+    "Cut the carrot into matchsticks and stir-fry it the same way for 2 minutes. You can carry straight on in the same pan without wiping it.",
+    "Slice the shiitake thinly and stir-fry for 2 minutes with 1 tsp (5 mL) soy sauce.",
+    "If you are using beef, season it with 1 Tbsp (15 mL) soy sauce, 1/2 tsp sugar, garlic and sesame oil, then fry it.",
+    "Fry the eggs sunny side up, keeping the yolks runny. A yolk that runs is what makes it mix smoothly.",
+    "Put the rice in a bowl and arrange the vegetables around it by colour. Set the egg in the middle and serve the sauce alongside."
+  ],
+  "tips": [
+    "The seasoned vegetables can be made the day before and kept in the fridge. Twenty minutes at room temperature before eating brings the sesame oil aroma back.",
+    "You do not need a stone bowl. Swirl sesame oil around a deep bowl before adding the rice and you get a similar toasty flavour.",
+    "Make a generous batch of the sauce and it keeps in the fridge for 2 weeks. It is also good on noodles or on raw fish over rice (hoedeopbap)."
+  ]
+}
