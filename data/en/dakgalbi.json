@@ -1,0 +1,108 @@
+{
+  "title": "Dakgalbi",
+  "summary": "Boneless chicken thigh marinated in a gochujang sauce and stir-fried with vegetables. It is done in one pan.",
+  "category": "Stir-fries",
+  "difficulty": "Medium",
+  "tags": [
+    "chicken",
+    "gochujang",
+    "spicy"
+  ],
+  "intro": "Dakgalbi has to be made with thigh meat, not breast. However good the marinade is, breast meat turns dry as it stir-fries.\n\nThe cabbage releases a fair amount of liquid, so no water or stock goes in.",
+  "ingredients": [
+    {
+      "group": "Main",
+      "items": [
+        {
+          "name": "Boneless chicken thigh",
+          "amount": "600 g (1 lb 5 oz)"
+        },
+        {
+          "name": "Cabbage",
+          "amount": "1/4 head (300 g / 10 1/2 oz)"
+        },
+        {
+          "name": "Sweet potato",
+          "amount": "1"
+        },
+        {
+          "name": "Onion",
+          "amount": "1"
+        },
+        {
+          "name": "Korean rice cakes (tteokbokki-tteok)",
+          "amount": "150 g (5 1/4 oz)"
+        },
+        {
+          "name": "Perilla leaves (kkaennip)",
+          "amount": "10 leaves"
+        },
+        {
+          "name": "Korean leek / large spring onion",
+          "amount": "1"
+        },
+        {
+          "name": "Cooking oil",
+          "amount": "2 Tbsp (30 mL)"
+        }
+      ]
+    },
+    {
+      "group": "Sauce",
+      "items": [
+        {
+          "name": "Korean chilli paste (gochujang)",
+          "amount": "3 Tbsp (45 mL)"
+        },
+        {
+          "name": "Korean chilli flakes (gochugaru)",
+          "amount": "2 Tbsp (30 mL)"
+        },
+        {
+          "name": "Soy sauce",
+          "amount": "2 Tbsp (30 mL)"
+        },
+        {
+          "name": "Sugar",
+          "amount": "1.5 Tbsp (22 mL)"
+        },
+        {
+          "name": "Minced garlic",
+          "amount": "1.5 Tbsp (22 mL)"
+        },
+        {
+          "name": "Minced ginger",
+          "amount": "1/2 tsp (2.5 mL)"
+        },
+        {
+          "name": "Korean cooking wine (matsul; mirin works)",
+          "amount": "3 Tbsp (45 mL)"
+        },
+        {
+          "name": "Curry powder",
+          "amount": "1 tsp (5 mL)"
+        },
+        {
+          "name": "Ground black pepper",
+          "amount": "a pinch"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Cut the chicken thigh into bite-sized pieces and pull off any lumps of fat.",
+    "Mix all the sauce ingredients together, pour them over the chicken and work them in with your hands. Marinate in the fridge for at least 30 minutes.",
+    "Cut the cabbage into 3 cm (1 1/4 in) squares, the sweet potato into 0.7 cm (1/4 in) half-moons, and the onion into thick pieces.",
+    "If the rice cakes are hard, soak them in lukewarm water for 10 minutes.",
+    "Heat the cooking oil in a large pan and stir-fry the marinated chicken over high heat for 5 minutes. The outside just needs to be cooked.",
+    "Add the sweet potato and rice cakes, cover, and cook over medium heat for 7 minutes. The sweet potato is the slowest thing to cook.",
+    "Add the cabbage and onion, cover, and cook for 5 minutes more. The cabbage releases liquid, so nothing catches on the pan.",
+    "Take off the lid, turn the heat to high and reduce the liquid for 3 minutes.",
+    "Add the perilla leaves and the diagonally sliced Korean leek, stir-fry for 30 seconds, then turn off the heat."
+  ],
+  "tips": [
+    "The 1 tsp (5 mL) of curry powder keeps the smell of the chicken in check. You can leave it out, but it is better in.",
+    "Stir rice, seaweed flakes and sesame oil into the sauce left in the pan and you have fried rice.",
+    "For a milder version, cut the chilli flakes alone down to 1 Tbsp (15 mL)."
+  ]
+}
