@@ -1,0 +1,100 @@
+{
+  "title": "Spicy Squid Stir-fry",
+  "summary": "Squid goes over high heat, and only briefly. Past three minutes it turns rubbery.",
+  "category": "Stir-fries",
+  "difficulty": "Medium",
+  "tags": [
+    "squid",
+    "gochujang",
+    "spicy"
+  ],
+  "intro": "Squid needs only two or three minutes to cook through. After that it just keeps getting tougher.\n\nThat is why the order matters: stir-fry the vegetables first, then add the squid at the end and cook it briefly. Scoring the flesh helps the seasoning soak in and keeps the cooking even.",
+  "ingredients": [
+    {
+      "group": "Main",
+      "items": [
+        {
+          "name": "Squid",
+          "amount": "2 squid, 600 g (1 lb 5 oz)"
+        },
+        {
+          "name": "Onion",
+          "amount": "1"
+        },
+        {
+          "name": "Carrot",
+          "amount": "1/3"
+        },
+        {
+          "name": "Cabbage",
+          "amount": "150 g (5 oz)"
+        },
+        {
+          "name": "Korean leek / large spring onion",
+          "amount": "1"
+        },
+        {
+          "name": "Korean green chillies (cheongyang-gochu; substitute serrano)",
+          "amount": "2"
+        },
+        {
+          "name": "Cooking oil",
+          "amount": "2 Tbsp (30 mL)"
+        }
+      ]
+    },
+    {
+      "group": "Sauce",
+      "items": [
+        {
+          "name": "Korean chilli paste (gochujang)",
+          "amount": "2 Tbsp (30 mL)"
+        },
+        {
+          "name": "Korean chilli flakes (gochugaru)",
+          "amount": "2 Tbsp (30 mL)"
+        },
+        {
+          "name": "Soy sauce",
+          "amount": "1 1/2 Tbsp (22 mL)"
+        },
+        {
+          "name": "Sugar",
+          "amount": "1 Tbsp (15 mL)"
+        },
+        {
+          "name": "Minced garlic",
+          "amount": "1 1/2 Tbsp (22 mL)"
+        },
+        {
+          "name": "Minced ginger",
+          "amount": "1/3 tsp"
+        },
+        {
+          "name": "Cooking wine (matsul; mirin works)",
+          "amount": "2 Tbsp (30 mL)"
+        },
+        {
+          "name": "Toasted sesame oil",
+          "amount": "1 Tbsp (15 mL)"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Split the squid bodies open, pull out the innards and peel off the skin. Gripping the skin with a paper towel makes it come away easily.",
+    "Score the inside of the body with close diagonal cuts and slice into bite-sized pieces. Cut the tentacles into 5 cm (2 in) lengths.",
+    "Blanch the squid in boiling water for just 20 seconds, then lift it out. Draining it well means less water comes out in the pan.",
+    "Mix all the sauce ingredients together.",
+    "Cut the onion and cabbage into large pieces, slice the carrot thinly, and cut the leek and green chillies on the diagonal.",
+    "Heat the cooking oil in a pan and stir-fry the onion, carrot and cabbage over high heat for 3 minutes.",
+    "Add the sauce and stir-fry for 1 minute to coat the vegetables.",
+    "Add the squid and stir-fry quickly over high heat for just 2 to 3 minutes.",
+    "Add the leek and green chillies, stir-fry for 30 seconds, then turn off the heat."
+  ],
+  "tips": [
+    "The 20-second blanch is there to drive off water in advance. Skip it and water seeps out during frying, thinning the sauce.",
+    "Once the squid has gone rubbery there is no bringing it back. Next time, turn off the heat 30 seconds earlier.",
+    "Toss any leftovers with boiled thin wheat noodles (somyeon)."
+  ]
+}
