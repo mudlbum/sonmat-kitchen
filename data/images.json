@@ -1,0 +1,99 @@
+{
+  "_readme": [
+    "Photography for the site. Images are served straight from the Pexels CDN;",
+    "nothing is copied into the repo, so the build stays zero-dependency and the",
+    "repo stays small. Pexels images are free to use under the Pexels licence and",
+    "attribution is not required, but every photo on this site is credited anyway.",
+    "",
+    "match: \"exact\"     the photo shows this dish.",
+    "match: \"reference\" the photo shows the right family of dish or the main",
+    "                   ingredient, but is not that exact recipe. The page says so",
+    "                   in the caption. Never label a reference photo as exact —",
+    "                   it is the same rule as the un-kitchen-tested disclosure.",
+    "",
+    "byCategory is the safety net: any recipe published without an entry in",
+    "`recipes` still gets a photo, chosen deterministically from its category pool",
+    "by slug, so a new recipe can never publish with a blank hero."
+  ],
+
+  "provider": "Pexels",
+  "providerUrl": "https://www.pexels.com",
+  "cdn": "https://images.pexels.com/photos",
+
+  "social": { "id": 8999080, "credit": "Makafood", "alt": { "en": "An overhead view of a Korean table set with rice, soup and several side dishes", "ko": "밥과 국, 여러 반찬이 차려진 한식 상차림을 위에서 내려다본 모습" } },
+
+  "recipes": {
+    "kimchi-jjigae":      { "id": 13774731, "credit": "Shinshiakiiro", "match": "exact",     "alt": { "en": "Korean kimchi stew bubbling in a clay pot with tofu and vegetables", "ko": "뚝배기에서 끓고 있는 김치찌개, 두부와 채소가 함께 들어 있다" } },
+    "gyeran-mari":        { "id": 24738514, "credit": "Nadin Sh",       "match": "exact",     "alt": { "en": "Sliced Korean rolled omelette served in a black bowl", "ko": "검은 그릇에 썰어 담은 계란말이" } },
+    "jeyuk-bokkeum":      { "id": 32087659, "credit": "The Journey of Frames", "match": "exact", "alt": { "en": "Korean spicy stir-fried pork with onions", "ko": "양파와 함께 볶아 낸 제육볶음" } },
+    "sigeumchi-namul":    { "id": 8954279,  "credit": "Makafood",       "match": "exact",     "alt": { "en": "Seasoned spinach side dish in a white bowl", "ko": "흰 그릇에 담은 시금치나물" } },
+    "doenjang-jjigae":    { "id": 8995036,  "credit": "Makafood",       "match": "reference", "alt": { "en": "A vegetable stew simmering in a Korean earthenware pot", "ko": "뚝배기에서 끓고 있는 채소 된장국물" } },
+    "kimchi-bokkeumbap":  { "id": 8890016,  "credit": "Makafood",       "match": "exact",     "alt": { "en": "Korean kimchi fried rice served in a ceramic bowl", "ko": "도자기 그릇에 담은 김치볶음밥" } },
+    "kongnamul-muchim":   { "id": 8839400,  "credit": "Makafood",       "match": "exact",     "alt": { "en": "Seasoned Korean soybean sprouts on a plate", "ko": "접시에 담은 콩나물무침" } },
+    "bulgogi":            { "id": 24738513, "credit": "Nadin Sh",       "match": "exact",     "alt": { "en": "Sliced marinated Korean bulgogi beef in a black bowl", "ko": "검은 그릇에 담은 양념 불고기" } },
+    "miyeokguk":          { "id": 8953853,  "credit": "Makafood",       "match": "reference", "alt": { "en": "A steaming Korean soup in a hot stone bowl with greens, served with kimchi", "ko": "뚝배기에 담긴 뜨거운 국과 곁들인 김치" } },
+    "aehobak-bokkeum":    { "id": 8897412,  "credit": "Makafood",       "match": "reference", "alt": { "en": "A freshly cooked Korean vegetable side dish in an earthenware bowl", "ko": "질그릇에 담은 채소 볶음 반찬" } },
+    "janchi-guksu":       { "id": 5339080,  "credit": "Roman Odintsov", "match": "reference", "alt": { "en": "A Korean noodle soup surrounded by small side dishes, seen from above", "ko": "여러 반찬과 함께 차린 국수 한 상, 위에서 본 모습" } },
+    "sundubu-jjigae":     { "id": 8954509,  "credit": "Makafood",       "match": "exact",     "alt": { "en": "Spicy Korean soft tofu stew in a black stone bowl with side dishes", "ko": "검은 뚝배기에 담긴 순두부찌개와 곁들인 반찬" } },
+    "gamja-jorim":        { "id": 8827916,  "credit": "Makafood",       "match": "exact",     "alt": { "en": "Soy-glazed braised potatoes served on a white plate", "ko": "흰 접시에 담은 간장 감자조림" } },
+    "oi-muchim":          { "id": 8890237,  "credit": "Makafood",       "match": "exact",     "alt": { "en": "Spicy Korean cucumber salad in a white ceramic bowl", "ko": "흰 도자기 그릇에 담은 오이무침" } },
+    "dakgalbi":           { "id": 33085044, "credit": "Ruby Huang",     "match": "exact",     "alt": { "en": "Spicy Korean dakgalbi cooking in a wide pan", "ko": "넓은 팬에서 익어 가는 닭갈비" } },
+    "kongnamul-guk":      { "id": 8952374,  "credit": "Makafood",       "match": "reference", "alt": { "en": "A steaming bowl of clear Korean soup with side dishes", "ko": "반찬과 함께 차린 맑은 국 한 그릇" } },
+    "kimchi-jeon":        { "id": 15622969, "credit": "Yesehoon",       "match": "reference", "alt": { "en": "Korean savoury pancakes with a soy dipping sauce on a wooden table", "ko": "나무 상에 차린 부침개와 간장 종지" } },
+    "myeolchi-bokkeum":   { "id": 8954506,  "credit": "Makafood",       "match": "exact",     "alt": { "en": "Seasoned stir-fried anchovies and nuts in a white bowl", "ko": "흰 그릇에 담은 멸치볶음과 견과" } },
+    "ojingeo-bokkeum":    { "id": 8954073,  "credit": "Makafood",       "match": "reference", "alt": { "en": "A spicy Korean seafood stir-fry with squid and vegetables", "ko": "오징어와 채소를 넣고 매콤하게 볶은 해물 요리" } },
+    "gaji-muchim":        { "id": 13774720, "credit": "Shinshiakiiro",  "match": "reference", "alt": { "en": "Cooked aubergine slices dressed with soy sauce on a white plate", "ko": "흰 접시에 간장 양념으로 무친 가지" } },
+    "tteokguk":           { "id": 32432714, "credit": "Richard L",      "match": "reference", "alt": { "en": "A Korean soup served with rice and side dishes on a wooden tray", "ko": "나무 쟁반에 국과 밥, 반찬을 함께 차린 상" } },
+    "dubu-jorim":         { "id": 9356997,  "credit": "Makafood",       "match": "exact",     "alt": { "en": "Braised tofu in spicy sauce topped with spring onion", "ko": "매콤한 양념에 조려 파를 올린 두부조림" } },
+    "bibimbap":           { "id": 5773967,  "credit": "Luis Becerra",   "match": "exact",     "alt": { "en": "Korean bibimbap with egg, rice and fresh vegetables in a bowl", "ko": "밥 위에 계란과 나물을 올린 비빔밥" } },
+    "bugeoguk":           { "id": 5305426,  "credit": "QJ Pioneer",     "match": "reference", "alt": { "en": "A clear fish soup served in a white bowl on a wooden table", "ko": "나무 상 위 흰 그릇에 담은 맑은 생선국" } },
+    "gamja-jeon":         { "id": 33873563, "credit": "Richard L",      "match": "exact",     "alt": { "en": "Crisp Korean potato pancakes with a dipping sauce", "ko": "바삭하게 부친 감자전과 초간장" } },
+    "yukgaejang":         { "id": 15876424, "credit": "Yesehoon",       "match": "reference", "alt": { "en": "A rich Korean beef soup garnished with spring onion", "ko": "파를 듬뿍 올린 진한 소고기 국" } },
+    "gimbap":             { "id": 12288356, "credit": "Nadin Sh",       "match": "exact",     "alt": { "en": "Korean gimbap rolls filled with vegetables and sprinkled with sesame", "ko": "채소를 넣고 깨를 뿌린 김밥" } },
+    "kong-guksu":         { "id": 8995154,  "credit": "Makafood",       "match": "reference", "alt": { "en": "A chilled Korean noodle dish served with side dishes", "ko": "반찬과 함께 차린 시원한 국수" } }
+  },
+
+  "byCategory": {
+    "찌개": [
+      { "id": 34179560, "credit": "Ruby",     "alt": { "en": "A Korean kimchi stew served with grilled pork and side dishes", "ko": "구운 고기, 반찬과 함께 차린 김치찌개" } },
+      { "id": 32001174, "credit": "The Journey of Frames", "alt": { "en": "A Korean meal of stew, grilled fish and side dishes", "ko": "찌개와 생선구이, 반찬을 차린 한식 한 상" } },
+      { "id": 8896094,  "credit": "Makafood", "alt": { "en": "A Korean stew with pork rib and vegetables in a clay pot", "ko": "뚝배기에 끓인 등갈비와 채소 찌개" } }
+    ],
+    "국": [
+      { "id": 8953854,  "credit": "Makafood", "alt": { "en": "A Korean soup served hot in a traditional stone pot", "ko": "뚝배기에 뜨겁게 담아 낸 국" } },
+      { "id": 15876419, "credit": "Yesehoon", "alt": { "en": "A Korean beef soup with side dishes on a wooden table", "ko": "나무 상에 반찬과 함께 차린 소고기 국" } },
+      { "id": 8954372,  "credit": "Makafood", "alt": { "en": "A rich Korean soup with vegetables in a black pot", "ko": "검은 냄비에 채소를 넣고 끓인 진한 국" } }
+    ],
+    "반찬": [
+      { "id": 9348465, "credit": "Makafood",   "alt": { "en": "A Korean side dish served on a wooden table", "ko": "나무 상에 낸 밑반찬 한 접시" } },
+      { "id": 8896107, "credit": "Makafood",   "alt": { "en": "An assortment of colourful Korean side dishes", "ko": "여러 가지 색이 어우러진 반찬 모둠" } },
+      { "id": 8954381, "credit": "Makafood",   "alt": { "en": "Korean side dishes in white bowls", "ko": "흰 그릇들에 나눠 담은 반찬" } },
+      { "id": 8914979, "credit": "Makafood",   "alt": { "en": "Traditional Korean side dishes in ceramic bowls on a wooden table", "ko": "나무 상 위 도자기 그릇에 담은 반찬" } }
+    ],
+    "볶음": [
+      { "id": 8980488, "credit": "Makafood",   "alt": { "en": "A Korean stir-fry platter with seafood and fresh vegetables", "ko": "해물과 채소를 함께 볶아 담은 큰 접시" } },
+      { "id": 8995923, "credit": "Makafood",   "alt": { "en": "A spread of Korean dishes including spicy pork and kimchi", "ko": "제육과 김치를 곁들인 한식 상차림" } },
+      { "id": 8984409, "credit": "Makafood",   "alt": { "en": "Colourful vegetables cooking in a pan", "ko": "팬에서 볶고 있는 여러 가지 채소" } }
+    ],
+    "밥": [
+      { "id": 8953652, "credit": "Makafood",   "alt": { "en": "A Korean rice bowl topped with kimchi", "ko": "김치를 올린 덮밥 한 그릇" } },
+      { "id": 9029283, "credit": "Makafood",   "alt": { "en": "A rice bowl garnished with seaweed and vegetables", "ko": "김과 채소를 올린 밥 한 그릇" } },
+      { "id": 8956662, "credit": "Makafood",   "alt": { "en": "A bowl of rice in a white ceramic bowl", "ko": "흰 그릇에 담은 밥" } }
+    ],
+    "구이": [
+      { "id": 8999054, "credit": "Makafood",   "alt": { "en": "Sizzling beef with onions and side dishes", "ko": "양파와 함께 지글지글 구운 고기와 반찬" } },
+      { "id": 8178941, "credit": "Amanda Lim", "alt": { "en": "Assorted meats and vegetables laid out for Korean barbecue", "ko": "고기와 채소를 차린 한국식 구이 상" } },
+      { "id": 8288079, "credit": "Fox",        "alt": { "en": "Pork belly and vegetables grilling on a pan", "ko": "팬에서 굽고 있는 삼겹살과 채소" } }
+    ],
+    "면": [
+      { "id": 5338144, "credit": "Roman Odintsov", "alt": { "en": "A Korean noodle soup served with kimchi and side dishes", "ko": "김치와 반찬을 곁들인 국수 한 상" } },
+      { "id": 8980454, "credit": "Makafood",  "alt": { "en": "Korean cold mixed noodles with fresh vegetables and crisp seaweed", "ko": "채소와 김을 올린 비빔국수" } },
+      { "id": 8935153, "credit": "Makafood",  "alt": { "en": "Korean glass noodles with vegetables in a ceramic dish", "ko": "도자기 접시에 채소와 함께 담은 잡채" } }
+    ],
+    "전": [
+      { "id": 13887556, "credit": "Marvin Bayer", "alt": { "en": "Korean spring onion pancakes with a sesame dipping sauce", "ko": "참깨 간장을 곁들인 파전" } },
+      { "id": 8366715,  "credit": "Amanda Lim",   "alt": { "en": "A Korean seafood pancake with vegetables on a ceramic plate", "ko": "도자기 접시에 담은 해물파전" } },
+      { "id": 12913663, "credit": "Fox",          "alt": { "en": "Korean pajeon served with dipping sauces", "ko": "초간장을 곁들여 낸 파전" } }
+    ]
+  }
+}
