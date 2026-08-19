@@ -1,0 +1,88 @@
+{
+  "title": "Kimchi Fried Rice",
+  "summary": "Cold rice, sour kimchi, and the patience to fry the kimchi long enough. That is the whole list.",
+  "category": "Rice",
+  "difficulty": "Easy",
+  "tags": [
+    "kimchi",
+    "one-bowl",
+    "15 minutes"
+  ],
+  "intro": "Kimchi fried rice goes mushy mostly because of the rice. Freshly cooked rice holds too much moisture and breaks down as you fry it. If you have no cold rice, spread fresh rice on a wide plate, let it cool for 5 minutes and use that.\n\nAnd the kimchi needs far longer in the pan than you would think. There is a point where the sourness turns to sweetness.",
+  "ingredients": [
+    {
+      "group": "Main",
+      "items": [
+        {
+          "name": "Cold cooked rice",
+          "amount": "2 bowls (400 g)"
+        },
+        {
+          "name": "Sour kimchi",
+          "amount": "200 g (7 oz)"
+        },
+        {
+          "name": "Kimchi brine",
+          "amount": "3 Tbsp (45 mL)"
+        },
+        {
+          "name": "Minced pork or Spam",
+          "amount": "100 g (3 1/2 oz)"
+        },
+        {
+          "name": "Korean leek / large spring onion",
+          "amount": "1/2 stalk"
+        },
+        {
+          "name": "Cooking oil",
+          "amount": "2 Tbsp (30 mL)"
+        },
+        {
+          "name": "Eggs",
+          "amount": "2"
+        }
+      ]
+    },
+    {
+      "group": "Seasoning",
+      "items": [
+        {
+          "name": "Korean chilli flakes (gochugaru)",
+          "amount": "1 tsp (5 mL)"
+        },
+        {
+          "name": "Soy sauce",
+          "amount": "1 tsp (5 mL)"
+        },
+        {
+          "name": "Sugar",
+          "amount": "1/2 tsp (2.5 mL)"
+        },
+        {
+          "name": "Toasted sesame oil",
+          "amount": "1 tsp (5 mL)"
+        },
+        {
+          "name": "Shredded roasted seaweed (gim) and toasted sesame seeds",
+          "amount": "a little of each"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Squeeze the brine lightly out of the kimchi and chop it small. Pieces a little larger than a grain of rice eat best.",
+    "Chop the leek finely.",
+    "Heat 1 Tbsp (15 mL) of the oil in a pan and fry the leek over medium-low heat for 1 minute to flavour the oil.",
+    "Add the meat and fry over medium heat until it is cooked through.",
+    "Add the kimchi and sugar and fry over medium heat for 5 to 6 minutes. It is ready when the kimchi darkens and the sour smell gives way to a toasted, nutty one. Save time here and the flavour stays shallow.",
+    "Add the chilli flakes and kimchi brine and fry for 1 minute more to drive off the moisture.",
+    "Add the rice and press it with a spatula to break up the clumps. Pour the soy sauce around the edge of the pan; it scorches slightly there and gives off its aroma.",
+    "Turn the heat to high and fry for 2 minutes. When the grains start to jump in the pan it is done.",
+    "Turn off the heat and drizzle in the sesame oil. Serve in bowls, topped with a separately fried egg, the shredded seaweed and the sesame seeds."
+  ],
+  "tips": [
+    "Always fry the eggs separately. Stirred through the rice, the egg coats the grains and turns them soggy.",
+    "If you use Spam, cut the oil back to 1 Tbsp (15 mL).",
+    "For a cheese topping, add it right after turning off the heat and cover for 30 seconds."
+  ]
+}
