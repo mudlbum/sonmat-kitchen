@@ -1,0 +1,15 @@
+{
+  "title": "손맛 키친",
+  "titleEn": "Sonmat Kitchen",
+  "tagline": "매일 아침 한 가지, 집에서 만드는 한식",
+  "description": "복잡한 장비 없이 집 부엌에서 만들 수 있는 한식 레시피를 매일 아침 한 가지씩 올립니다.",
+  "origin": "https://mudlbum.github.io",
+  "base": "/sonmat-kitchen",
+  "locale": "ko-KR",
+  "lang": "ko",
+  "timezone": "Asia/Seoul",
+  "author": "손맛 키친",
+  "publishHourKst": "07:10",
+  "queueWarnThreshold": 7,
+  "repo": "mudlbum/sonmat-kitchen"
+}

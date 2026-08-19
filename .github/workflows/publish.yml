@@ -1,0 +1,115 @@
+name: Publish daily recipe
+
+# 07:10 Korea time = 22:10 UTC the previous day (KST is UTC+9, no DST).
+# GitHub's scheduled runs are best-effort and are commonly 5-20 minutes late
+# under load; treat the posted time as "shortly after 07:10", not "at 07:10".
+on:
+  schedule:
+    - cron: '10 22 * * *'
+  workflow_dispatch:
+    inputs:
+      count:
+        description: 'How many recipes to publish'
+        required: false
+        default: '1'
+      force:
+        description: 'Publish even if today already has one'
+        type: boolean
+        required: false
+        default: false
+
+# GitHub disables scheduled workflows on public repos after 60 days with no
+# repository activity. This job commits on every publish, which counts as
+# activity — so it keeps itself alive as long as it keeps publishing.
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+    outputs:
+      published_count: ${{ steps.pick.outputs.published_count }}
+      queue_remaining: ${{ steps.pick.outputs.queue_remaining }}
+      need_issue: ${{ steps.pick.outputs.need_issue }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Publish next recipe
+        id: pick
+        env:
+          COUNT: ${{ github.event.inputs.count || '1' }}
+          FORCE: ${{ github.event.inputs.force }}
+        run: |
+          args="--count $COUNT"
+          if [ "$FORCE" = "true" ]; then args="$args --force"; fi
+          node scripts/publish.mjs $args
+
+      - name: Verify the site still builds
+        run: |
+          node scripts/build.mjs
+          node scripts/check.mjs
+
+      - name: Commit
+        if: steps.pick.outputs.published_count != '0'
+        env:
+          TITLES: ${{ steps.pick.outputs.published_titles }}
+        run: |
+          git config user.name  "sonmat-kitchen[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/recipes content/published
+          if git diff --staged --quiet; then
+            echo "nothing staged — skipping commit"
+          else
+            git commit -m "publish: $TITLES"
+            git push
+          fi
+
+      - name: Open an issue when the queue runs low
+        if: steps.pick.outputs.need_issue == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REMAINING: ${{ steps.pick.outputs.queue_remaining }}
+          # Kept in env rather than a heredoc inside `run:` — an unindented
+          # heredoc body terminates the YAML block scalar and breaks the file.
+          BODY: |
+            `data/recipes/`에 남은 레시피가 경고 기준 아래로 떨어졌습니다.
+
+            새 레시피를 추가하려면 `data/recipes/`에 JSON 파일을 하나 더 넣으면 됩니다.
+            형식은 `data/recipes/README.md`를 참고하세요. 파일 이름 순서대로 발행됩니다.
+
+            대기열이 비면 그날 아침 발행은 실패하고, 이 워크플로가 빨간색으로 표시됩니다.
+        run: |
+          # One open issue at a time — this runs daily and must not file a new
+          # one every morning until the queue is topped up.
+          existing=$(gh issue list --label queue-low --state open --limit 1 --json number --jq '.[0].number // empty')
+          if [ -n "$existing" ]; then
+            echo "issue #$existing already open — adding a comment instead"
+            gh issue comment "$existing" --body "대기열 **${REMAINING}개** 남음 ($(date -u +%Y-%m-%d))."
+            exit 0
+          fi
+          gh label create queue-low --color d93f0b --description "Recipe queue is running low" 2>/dev/null || true
+          gh issue create \
+            --title "레시피 대기열이 ${REMAINING}개 남았습니다" \
+            --label queue-low \
+            --body "$BODY"
+
+  # Runs only when `publish` succeeded (that is the default for `needs`).
+  # The commit above is pushed with GITHUB_TOKEN, and GitHub deliberately does
+  # not let such a push trigger another workflow — so deploy.yml's `on: push`
+  # will not fire and we call it explicitly here instead. No double deploy.
+  deploy:
+    needs: publish
+    uses: ./.github/workflows/deploy.yml
+    permissions:
+      contents: read
+      pages: write
+      id-token: write

@@ -1,0 +1,13 @@
+{
+  "name": "sonmat-kitchen",
+  "private": true,
+  "type": "module",
+  "description": "손맛 키친 — a Korean home-cooking blog that publishes one recipe every morning",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "publish:next": "node scripts/publish.mjs",
+    "preview": "node scripts/build.mjs && node scripts/serve.mjs"
+  },
+  "engines": { "node": ">=18" }
+}
