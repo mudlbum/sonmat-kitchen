@@ -1,0 +1,79 @@
+{
+  "title": "Dried Pollock Soup",
+  "summary": "Frying the shredded dried pollock in sesame oil is what turns the broth milky white. This is the basic hangover soup.",
+  "category": "Soups",
+  "difficulty": "Easy",
+  "tags": [
+    "dried pollock",
+    "hangover",
+    "20 minutes"
+  ],
+  "intro": "If your bugeoguk broth is clear and bland, the frying step did not go far enough. Fry the shredded dried pollock in sesame oil and the broth comes up milky white, like milk.\n\nDo not leave the pollock soaking in water. The savoury flavour leaches out into it. Wet it briefly, just enough to soften it.",
+  "ingredients": [
+    {
+      "group": "Main",
+      "items": [
+        {
+          "name": "Shredded dried pollock (bugeo-chae)",
+          "amount": "50 g (1 3/4 oz)"
+        },
+        {
+          "name": "Korean radish (mu; daikon works)",
+          "amount": "150 g (5 oz)"
+        },
+        {
+          "name": "Eggs",
+          "amount": "2"
+        },
+        {
+          "name": "Korean leek / large spring onion",
+          "amount": "1/2"
+        },
+        {
+          "name": "Water",
+          "amount": "1.2 L (5 cups)"
+        },
+        {
+          "name": "Toasted sesame oil",
+          "amount": "2 Tbsp (30 mL)"
+        }
+      ]
+    },
+    {
+      "group": "Seasoning",
+      "items": [
+        {
+          "name": "Soup soy sauce (guk-ganjang)",
+          "amount": "1 1/2 Tbsp (22 mL)"
+        },
+        {
+          "name": "Minced garlic",
+          "amount": "1 Tbsp (15 mL)"
+        },
+        {
+          "name": "Salted fermented shrimp (saeu-jeot)",
+          "amount": "1 tsp (5 mL)"
+        },
+        {
+          "name": "Salt and ground black pepper",
+          "amount": "a pinch of each"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Dip the dried pollock in water for just 30 seconds, lift it out and squeeze it gently. Cut it into 5 cm (2 in) lengths.",
+    "Cut the radish into thin square slices and slice the leek on the diagonal.",
+    "Heat the sesame oil in a pot and fry the pollock over medium heat for 3 minutes. A strong nutty smell comes up.",
+    "Add the radish and fry for 2 minutes more.",
+    "Pour in 1.2 L (5 cups) water and bring to the boil over high heat. Once it boils, turn the heat down to medium and cook for 12 minutes. The broth turns milky.",
+    "Add the soup soy sauce, salted shrimp and garlic, and boil for 3 minutes more.",
+    "Beat the eggs and pour them in slowly in a circle while the broth is at a rolling boil. Do not stir straight away; wait 10 seconds, then stir once.",
+    "Add the leek and turn off the heat. Season to taste with salt and pepper."
+  ],
+  "tips": [
+    "Stirring as soon as the egg goes in makes the broth cloudy. Give it time to set.",
+    "Tofu is a good addition. Put it in just before the egg.",
+    "Hwangtae-chae (freeze-dried pollock strips) in place of bugeo-chae gives a deeper flavour. Fry it for a minute longer."
+  ]
+}
