@@ -1,0 +1,106 @@
+{
+  "title": "Yukgaejang",
+  "summary": "Brisket simmered until tender and torn along the grain, then cooked with vegetables into a spicy soup. Time is the ingredient.",
+  "category": "Soups",
+  "difficulty": "Hard",
+  "tags": [
+    "beef",
+    "spicy",
+    "restorative"
+  ],
+  "intro": "Yukgaejang is made by time more than by ingredients. The brisket has to simmer for over an hour before the grain loosens enough to tear by hand, and the water it cooked in becomes the broth.\n\nWorking the chilli flakes into oil before they go in is what decides the colour and the flavour of this soup. Scattered in dry, they only sit on the surface.",
+  "ingredients": [
+    {
+      "group": "Meat and broth",
+      "items": [
+        {
+          "name": "Beef brisket",
+          "amount": "500 g (1 lb 2 oz)"
+        },
+        {
+          "name": "Water",
+          "amount": "2.5 L (10 cups)"
+        },
+        {
+          "name": "Korean leek / large spring onion, root ends",
+          "amount": "From 2 stalks"
+        },
+        {
+          "name": "Garlic",
+          "amount": "6 cloves"
+        },
+        {
+          "name": "Whole black peppercorns",
+          "amount": "10"
+        }
+      ]
+    },
+    {
+      "group": "Greens",
+      "items": [
+        {
+          "name": "Bracken fern (gosari), pre-cooked",
+          "amount": "150 g (5 oz)"
+        },
+        {
+          "name": "Taro stems (torandae), pre-cooked",
+          "amount": "100 g (3 1/2 oz)"
+        },
+        {
+          "name": "Mung bean sprouts",
+          "amount": "200 g (7 oz)"
+        },
+        {
+          "name": "Korean leek / large spring onion",
+          "amount": "3 stalks"
+        }
+      ]
+    },
+    {
+      "group": "Seasoning",
+      "items": [
+        {
+          "name": "Korean chilli flakes (gochugaru)",
+          "amount": "4 Tbsp (60 mL)"
+        },
+        {
+          "name": "Cooking oil",
+          "amount": "3 Tbsp (45 mL)"
+        },
+        {
+          "name": "Soup soy sauce (guk-ganjang)",
+          "amount": "3 Tbsp (45 mL)"
+        },
+        {
+          "name": "Minced garlic",
+          "amount": "2 Tbsp (30 mL)"
+        },
+        {
+          "name": "Toasted sesame oil",
+          "amount": "1 Tbsp (15 mL)"
+        },
+        {
+          "name": "Salt and ground black pepper",
+          "amount": "A little of each"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Soak the brisket in cold water for 30 minutes to draw out the blood. Change the water twice.",
+    "Put 2.5 L (10 cups) water, the brisket, leek root ends, garlic and peppercorns in a pot and bring to a boil over high heat.",
+    "Once it boils, skim the foam off carefully, lower the heat to medium-low, cover the pot halfway and simmer for 70 minutes.",
+    "Lift the meat out, let it cool for a moment, then tear it into long strips along the grain with your hands. Do not cut it with a knife.",
+    "Strain the broth through a sieve and discard the solids.",
+    "Cut the leek into 8 cm (3 in) lengths and split them lengthwise. Rinse the bean sprouts and set them aside, and cut the bracken and taro stems into 5 cm (2 in) pieces.",
+    "In a small bowl, work the chilli flakes and the cooking oil together into a chilli oil paste. Do not heat it — just mix it.",
+    "In a large bowl, combine the torn meat, bracken, taro stems and leek with the chilli oil paste, soup soy sauce and minced garlic, and rub it all together with your hands. Leave it for 10 minutes.",
+    "Add the seasoned mixture to the broth and bring to a boil over high heat. Once it boils, lower to medium and cook for 20 minutes.",
+    "Add the bean sprouts, boil for 5 minutes more, then season with salt and black pepper. Turn off the heat and drizzle in the sesame oil."
+  ],
+  "tips": [
+    "Do not skip step 8, where the ingredients are seasoned before they go into the pot. Added straight to the broth, they only turn it red while the flavour stays separate.",
+    "Buying pre-cooked bracken and taro stems is the easy route. Dried ones need a day of soaking and 30 minutes of boiling.",
+    "It is much better the next day. Make a large batch."
+  ]
+}
