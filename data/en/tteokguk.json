@@ -1,0 +1,84 @@
+{
+  "title": "Rice Cake Soup",
+  "summary": "Soak the rice cakes ahead of time, and add them only when the broth is at a rolling boil.",
+  "category": "Soups",
+  "difficulty": "Easy",
+  "tags": [
+    "rice cake",
+    "beef",
+    "holiday"
+  ],
+  "intro": "Tteokguk broth turns thick and cloudy because the rice cakes have been boiled too long. Starch keeps leaching out of them.\n\nAdd the rice cakes only for the last 5 minutes. Have the broth finished before that.",
+  "ingredients": [
+    {
+      "group": "Broth",
+      "items": [
+        {
+          "name": "Beef brisket",
+          "amount": "200 g (7 oz)"
+        },
+        {
+          "name": "Water",
+          "amount": "1.5 L (6 1/4 cups)"
+        },
+        {
+          "name": "Root end of a Korean leek / large spring onion",
+          "amount": "from 1 leek"
+        },
+        {
+          "name": "Garlic",
+          "amount": "4 cloves"
+        },
+        {
+          "name": "Soup soy sauce (guk-ganjang)",
+          "amount": "2 Tbsp (30 mL)"
+        },
+        {
+          "name": "Toasted sesame oil",
+          "amount": "1 Tbsp (15 mL)"
+        }
+      ]
+    },
+    {
+      "group": "Main and toppings",
+      "items": [
+        {
+          "name": "Sliced rice cakes (tteokguk-tteok)",
+          "amount": "500 g (1 lb 2 oz)"
+        },
+        {
+          "name": "Eggs",
+          "amount": "2"
+        },
+        {
+          "name": "Korean leek / large spring onion",
+          "amount": "1/2"
+        },
+        {
+          "name": "Dried seaweed sheet (gim; nori works)",
+          "amount": "1 sheet"
+        },
+        {
+          "name": "Ground black pepper",
+          "amount": "a pinch"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Soak the rice cakes in cold water for 20 minutes. Frozen ones need 30.",
+    "Soak the beef brisket in cold water for 20 minutes to draw out the blood.",
+    "Heat the sesame oil in a pot and fry the brisket over medium heat for 3 minutes.",
+    "Add 1.5 L (6 1/4 cups) water, the leek root and the garlic, and bring to the boil over high heat. Once it boils, skim off the foam and simmer over medium-low heat for 20 minutes.",
+    "Lift out the beef and tear it along the grain; strain the broth to remove the solids.",
+    "Separate the eggs, fry the whites and yolks into thin sheets (jidan) and cut them into strips. If that is too much bother, beat the eggs and stir them into the broth instead.",
+    "Season the broth with the soup soy sauce and check the salt. Bring it back to a hard boil.",
+    "Drain the soaked rice cakes, add them and boil for 4 to 5 minutes. They are done when they float and turn soft.",
+    "Ladle into bowls and top with the torn beef, the egg strips, crumbled seaweed and diagonally sliced leek. Finish with black pepper."
+  ],
+  "tips": [
+    "Make the broth a day ahead and the fat sets on top, so it lifts off easily. The broth comes out much clearer.",
+    "In leftover tteokguk the rice cakes drink up all the broth. Either make plenty of broth or cook only as much as you will eat.",
+    "Add dumplings and it becomes tteok-manduguk. Put the dumplings in at the same time as the rice cakes."
+  ]
+}
