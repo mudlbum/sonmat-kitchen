@@ -1,0 +1,188 @@
+{
+  "slug": "bulgogi",
+  "title": "소불고기",
+  "titleEn": "Bulgogi",
+  "summary": "배와 양파를 갈아 넣은 간장 양념. 고기는 재우기 전에 핏물을 빼 둡니다.",
+  "category": "구이",
+  "tags": [
+    "소고기",
+    "간장",
+    "손님상"
+  ],
+  "servings": 3,
+  "prepMinutes": 20,
+  "cookMinutes": 10,
+  "difficulty": "보통",
+  "intro": "불고기 양념에 배를 넣는 것은 단맛 때문만이 아닙니다. 배에 든 단백질 분해 효소가 고기를 연하게 만듭니다.\n\n다만 오래 재우면 지나치게 물러져 식감이 죽습니다. 배를 넣었다면 재우는 시간은 1시간을 넘기지 않는 편이 낫습니다.",
+  "ingredients": [
+    {
+      "group": "주재료",
+      "items": [
+        {
+          "name": "소고기 불고기용 (등심 또는 설도)",
+          "amount": "600g"
+        },
+        {
+          "name": "양파",
+          "amount": "1개"
+        },
+        {
+          "name": "당근",
+          "amount": "1/3개"
+        },
+        {
+          "name": "대파",
+          "amount": "1대"
+        },
+        {
+          "name": "표고버섯",
+          "amount": "3개"
+        }
+      ]
+    },
+    {
+      "group": "양념장",
+      "items": [
+        {
+          "name": "간장",
+          "amount": "5큰술"
+        },
+        {
+          "name": "배 간 것",
+          "amount": "4큰술 (1/4개)"
+        },
+        {
+          "name": "양파 간 것",
+          "amount": "3큰술"
+        },
+        {
+          "name": "설탕",
+          "amount": "1.5큰술"
+        },
+        {
+          "name": "다진 마늘",
+          "amount": "1.5큰술"
+        },
+        {
+          "name": "맛술",
+          "amount": "2큰술"
+        },
+        {
+          "name": "참기름",
+          "amount": "1큰술"
+        },
+        {
+          "name": "후춧가루",
+          "amount": "1/2작은술"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "소고기는 키친타월로 눌러 핏물을 뺍니다. 핏물이 남으면 양념이 겉돌고 잡내가 납니다.",
+    "배와 양파 일부를 강판이나 믹서로 곱게 갑니다.",
+    "양념장 재료를 모두 섞고 설탕이 녹을 때까지 젓습니다.",
+    "고기에 양념장을 붓고 손으로 조물조물 무칩니다. 냉장고에서 40분~1시간 재웁니다.",
+    "양파는 굵게 채 썰고 당근은 얇게, 표고는 저며 썰고 대파는 어슷 썹니다.",
+    "팬을 센불에 달굽니다. 기름은 두르지 않습니다. 양념에 이미 참기름이 있습니다.",
+    "고기를 펼쳐 넣고 2분간 건드리지 않습니다. 국물이 생기기 시작하면 뒤집습니다.",
+    "채소를 모두 넣고 3~4분 볶습니다. 국물이 자작하게 졸면 완성입니다."
+  ],
+  "tips": [
+    "국물을 넉넉히 먹고 싶으면 물 100mL를 채소와 함께 넣고 끓이듯 익힙니다. 전골식 불고기가 됩니다.",
+    "냉동 불고기감은 완전히 녹이지 말고 살짝 언 상태에서 양념하면 모양이 흐트러지지 않습니다.",
+    "남은 불고기는 밥에 비벼 먹거나 김밥 속으로 씁니다."
+  ],
+  "en": {
+    "title": "Bulgogi",
+    "summary": "A soy sauce marinade with grated pear and onion. Blot the blood from the beef before it goes in.",
+    "category": "Grilled",
+    "difficulty": "Medium",
+    "tags": [
+      "beef",
+      "soy sauce",
+      "entertaining"
+    ],
+    "intro": "Pear goes into bulgogi marinade for more than sweetness. The protein-digesting enzymes in pear tenderise the meat.\n\nLeave it too long, though, and the beef turns mushy and the texture is gone. If there is pear in the marinade, it is better not to go past an hour.",
+    "ingredients": [
+      {
+        "group": "Main",
+        "items": [
+          {
+            "name": "Thinly sliced beef for bulgogi (sirloin or top round)",
+            "amount": "600 g (1 lb 5 oz)"
+          },
+          {
+            "name": "Onion",
+            "amount": "1"
+          },
+          {
+            "name": "Carrot",
+            "amount": "1/3"
+          },
+          {
+            "name": "Korean leek / large spring onion",
+            "amount": "1 stalk"
+          },
+          {
+            "name": "Shiitake mushrooms",
+            "amount": "3"
+          }
+        ]
+      },
+      {
+        "group": "Sauce",
+        "items": [
+          {
+            "name": "Soy sauce",
+            "amount": "5 Tbsp (75 mL)"
+          },
+          {
+            "name": "Korean pear (bae), grated (Asian or nashi pear)",
+            "amount": "4 Tbsp (60 mL), about 1/4 pear"
+          },
+          {
+            "name": "Onion, grated",
+            "amount": "3 Tbsp (45 mL)"
+          },
+          {
+            "name": "Sugar",
+            "amount": "1 1/2 Tbsp (22 mL)"
+          },
+          {
+            "name": "Garlic, minced",
+            "amount": "1 1/2 Tbsp (22 mL)"
+          },
+          {
+            "name": "Cooking rice wine (matsul, or mirin)",
+            "amount": "2 Tbsp (30 mL)"
+          },
+          {
+            "name": "Toasted sesame oil",
+            "amount": "1 Tbsp (15 mL)"
+          },
+          {
+            "name": "Ground black pepper",
+            "amount": "1/2 tsp (2.5 mL)"
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Press the beef with kitchen paper to draw off the blood. If it is left in, the marinade sits on the surface and the meat tastes gamey.",
+      "Grate the pear and part of the onion finely, on a grater or in a blender.",
+      "Mix all the sauce ingredients and stir until the sugar has dissolved.",
+      "Pour the sauce over the beef and work it in with your hands. Marinate in the fridge for 40 minutes to 1 hour.",
+      "Cut the onion into thick strips and the carrot thin, slice the shiitake, and cut the spring onion on the diagonal.",
+      "Heat a pan over high heat. Do not add oil - there is already sesame oil in the marinade.",
+      "Spread the beef out in the pan and leave it alone for 2 minutes. Turn it once liquid starts to gather.",
+      "Add all the vegetables and stir-fry for 3-4 minutes. It is done when the liquid has reduced to a shallow pool."
+    ],
+    "tips": [
+      "If you want plenty of broth, add 100 mL (scant 1/2 cup) water along with the vegetables and let it simmer rather than fry. That gives you hot-pot style bulgogi.",
+      "With frozen bulgogi beef, do not thaw it all the way; marinate it while it is still slightly frozen and the slices keep their shape.",
+      "Leftover bulgogi can be mixed through rice or used as a filling for gimbap."
+    ]
+  },
+  "publishedAt": "2026-08-23"
+}
