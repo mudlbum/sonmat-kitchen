@@ -1,0 +1,142 @@
+{
+  "slug": "miyeokguk",
+  "title": "소고기 미역국",
+  "titleEn": "Seaweed Soup",
+  "summary": "미역과 고기를 참기름에 충분히 볶은 뒤 물을 붓습니다. 국물 색이 뽀얘집니다.",
+  "category": "국",
+  "tags": [
+    "미역",
+    "소고기",
+    "생일"
+  ],
+  "servings": 4,
+  "prepMinutes": 25,
+  "cookMinutes": 30,
+  "difficulty": "쉬움",
+  "intro": "미역국 국물이 맑고 밍밍하다면 볶는 시간이 짧았을 확률이 높습니다. 미역과 고기를 참기름에 5분 이상 볶아야 지방과 미역의 성분이 물에 풀려 국물이 뽀얗게 오릅니다.\n\n물은 반드시 볶은 뒤에 붓습니다.",
+  "ingredients": [
+    {
+      "group": "주재료",
+      "items": [
+        {
+          "name": "건미역",
+          "amount": "20g"
+        },
+        {
+          "name": "소고기 양지 또는 국거리",
+          "amount": "200g"
+        },
+        {
+          "name": "물",
+          "amount": "1.5L"
+        },
+        {
+          "name": "참기름",
+          "amount": "2큰술"
+        }
+      ]
+    },
+    {
+      "group": "양념",
+      "items": [
+        {
+          "name": "국간장",
+          "amount": "2큰술"
+        },
+        {
+          "name": "다진 마늘",
+          "amount": "1큰술"
+        },
+        {
+          "name": "소금",
+          "amount": "약간"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "건미역을 찬물에 20분 불립니다. 5배 넘게 불어나니 넉넉한 그릇을 씁니다.",
+    "불린 미역을 두세 번 헹궈 짠기를 빼고, 물기를 짠 뒤 4cm 길이로 썹니다.",
+    "소고기는 한입 크기로 썰고, 핏물이 많으면 키친타월로 닦습니다.",
+    "냄비에 참기름을 두르고 중불에서 소고기를 볶습니다. 겉면이 하얗게 변하면 미역을 넣습니다.",
+    "미역과 고기를 5분간 계속 볶습니다. 미역이 진한 초록으로 변하고 냄비 바닥에 눌어붙기 시작하면 됐습니다.",
+    "국간장 1큰술을 넣고 30초 더 볶습니다.",
+    "물 1.5L를 붓고 센불에서 끓입니다. 끓어오르면 거품을 걷어 내고 중약불로 줄입니다.",
+    "뚜껑을 반쯤 덮고 25분 끓입니다. 미역이 부드러워지면 다진 마늘을 넣고 5분 더 둡니다.",
+    "남은 국간장과 소금으로 간을 맞춥니다."
+  ],
+  "tips": [
+    "건미역 20g은 불리면 네 명이 배부르게 먹을 양입니다. 처음이라면 이보다 적게 잡으세요.",
+    "소고기 대신 바지락이나 홍합을 쓰면 볶는 단계 없이 끓는 물에 넣고 10분이면 됩니다.",
+    "다음 날 미역이 더 부드러워집니다. 미역국은 넉넉히 끓여도 됩니다."
+  ],
+  "en": {
+    "title": "Seaweed Soup",
+    "summary": "Fry the sea mustard and the beef in toasted sesame oil properly before you add the water. That is what turns the broth milky.",
+    "category": "Soups",
+    "difficulty": "Easy",
+    "tags": [
+      "sea mustard",
+      "beef",
+      "birthday"
+    ],
+    "intro": "If your seaweed soup comes out clear and bland, the most likely reason is that you did not fry it long enough. The sea mustard and beef need at least 5 minutes in toasted sesame oil so that the fat and the seaweed's own substance dissolve into the water and the broth turns milky.\n\nThe water always goes in after the frying.",
+    "ingredients": [
+      {
+        "group": "Main",
+        "items": [
+          {
+            "name": "Dried sea mustard (miyeok)",
+            "amount": "20 g (3/4 oz)"
+          },
+          {
+            "name": "Beef brisket or stewing beef",
+            "amount": "200 g (7 oz)"
+          },
+          {
+            "name": "Water",
+            "amount": "1.5 L (6 1/4 cups)"
+          },
+          {
+            "name": "Toasted sesame oil",
+            "amount": "2 Tbsp (30 mL)"
+          }
+        ]
+      },
+      {
+        "group": "Seasoning",
+        "items": [
+          {
+            "name": "Soup soy sauce (guk-ganjang)",
+            "amount": "2 Tbsp (30 mL)"
+          },
+          {
+            "name": "Garlic, minced",
+            "amount": "1 Tbsp (15 mL)"
+          },
+          {
+            "name": "Salt",
+            "amount": "a pinch"
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Soak the dried sea mustard in cold water for 20 minutes. It swells to more than five times its size, so use a generous bowl.",
+      "Rinse the soaked seaweed two or three times to wash out the salt, squeeze it dry and cut it into 4 cm (1 1/2 in) lengths.",
+      "Cut the beef into bite-sized pieces and blot it with kitchen paper if there is a lot of blood.",
+      "Heat the sesame oil in a pot and fry the beef over medium heat. When the outside has turned pale, add the seaweed.",
+      "Keep frying the seaweed and beef together for 5 minutes. It is ready when the seaweed has turned deep green and is starting to stick to the bottom of the pot.",
+      "Add 1 Tbsp (15 mL) of the soup soy sauce and fry for another 30 seconds.",
+      "Pour in 1.5 L (6 1/4 cups) water and bring to the boil over high heat. Once it boils, skim off the foam and turn the heat down to medium-low.",
+      "Half-cover the pot and simmer for 25 minutes. When the seaweed is soft, add the minced garlic and give it another 5 minutes.",
+      "Season to taste with the remaining soup soy sauce and salt."
+    ],
+    "tips": [
+      "Once soaked, 20 g (3/4 oz) of dried sea mustard is enough to fill four people. If this is your first time, start with less.",
+      "If you use clams or mussels instead of beef, you can skip the frying step: put them into boiling water and 10 minutes is enough.",
+      "The seaweed is softer the next day. There is no harm in making a big pot."
+    ]
+  },
+  "publishedAt": "2026-08-24"
+}
