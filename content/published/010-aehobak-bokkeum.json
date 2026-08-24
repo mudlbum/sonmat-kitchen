@@ -1,0 +1,154 @@
+{
+  "slug": "aehobak-bokkeum",
+  "title": "애호박 새우젓 볶음",
+  "titleEn": "Stir-fried Zucchini",
+  "summary": "소금 대신 새우젓으로 간합니다. 감칠맛이 다르고 물이 덜 생깁니다.",
+  "category": "반찬",
+  "tags": [
+    "채소",
+    "새우젓",
+    "10분"
+  ],
+  "servings": 3,
+  "prepMinutes": 5,
+  "cookMinutes": 7,
+  "difficulty": "쉬움",
+  "intro": "애호박은 수분이 많아 소금을 먼저 뿌리면 물이 흥건해집니다. 새우젓은 짠맛을 내면서도 양이 적어 물이 덜 나오고, 젓갈 특유의 감칠맛이 밋밋한 호박을 받쳐 줍니다.",
+  "ingredients": [
+    {
+      "group": "주재료",
+      "items": [
+        {
+          "name": "애호박",
+          "amount": "1개"
+        },
+        {
+          "name": "양파",
+          "amount": "1/4개"
+        },
+        {
+          "name": "대파",
+          "amount": "1/3대"
+        },
+        {
+          "name": "홍고추 (선택)",
+          "amount": "1/2개"
+        },
+        {
+          "name": "식용유",
+          "amount": "1큰술"
+        }
+      ]
+    },
+    {
+      "group": "양념",
+      "items": [
+        {
+          "name": "새우젓",
+          "amount": "1작은술 (다져서)"
+        },
+        {
+          "name": "다진 마늘",
+          "amount": "1작은술"
+        },
+        {
+          "name": "참기름",
+          "amount": "1작은술"
+        },
+        {
+          "name": "통깨",
+          "amount": "약간"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "애호박은 반달 모양으로 0.5cm 두께로 썹니다. 너무 얇으면 볶는 중에 뭉개집니다.",
+    "양파는 채 썰고, 대파와 홍고추는 어슷 썹니다. 새우젓은 잘게 다집니다.",
+    "팬에 식용유를 두르고 중불에서 다진 마늘을 30초 볶습니다.",
+    "애호박과 양파를 넣고 센불에서 3분 볶습니다. 자주 젓지 말고 가끔만 뒤집습니다.",
+    "새우젓을 넣고 2분 더 볶습니다. 호박 가장자리가 투명해지면 다 익은 것입니다.",
+    "대파와 홍고추를 넣고 30초 볶은 뒤 불을 끕니다.",
+    "참기름과 통깨를 뿌려 마무리합니다."
+  ],
+  "tips": [
+    "새우젓이 없으면 소금 1/3작은술로 대신하되, 불을 끄기 직전에 넣으세요.",
+    "센불에서 짧게가 원칙입니다. 중약불에서 오래 볶으면 물이 나와 죽이 됩니다.",
+    "들기름으로 마무리하면 더 구수합니다."
+  ],
+  "en": {
+    "title": "Stir-fried Zucchini",
+    "summary": "Seasoned with salted shrimp instead of salt. The savour is different and less water comes out.",
+    "category": "Side Dishes",
+    "difficulty": "Easy",
+    "tags": [
+      "vegetables",
+      "salted shrimp",
+      "10 minutes"
+    ],
+    "intro": "Korean zucchini holds a lot of water, so salting it at the start leaves the pan swimming. Salted shrimp seasons it just as strongly in a much smaller quantity, so less water is drawn out, and the particular savour of fermented shrimp gives the mild squash something to stand on.",
+    "ingredients": [
+      {
+        "group": "Main",
+        "items": [
+          {
+            "name": "Korean zucchini (aehobak), or a regular zucchini",
+            "amount": "1"
+          },
+          {
+            "name": "Onion",
+            "amount": "1/4"
+          },
+          {
+            "name": "Korean leek / large spring onion",
+            "amount": "1/3 stalk"
+          },
+          {
+            "name": "Red chilli, optional",
+            "amount": "1/2"
+          },
+          {
+            "name": "Cooking oil",
+            "amount": "1 Tbsp (15 mL)"
+          }
+        ]
+      },
+      {
+        "group": "Seasoning",
+        "items": [
+          {
+            "name": "Salted shrimp (saeujeot)",
+            "amount": "1 tsp (5 mL), finely chopped"
+          },
+          {
+            "name": "Garlic, minced",
+            "amount": "1 tsp (5 mL)"
+          },
+          {
+            "name": "Toasted sesame oil",
+            "amount": "1 tsp (5 mL)"
+          },
+          {
+            "name": "Toasted sesame seeds",
+            "amount": "a pinch"
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Cut the zucchini into half-moons 0.5 cm (1/4 in) thick. Any thinner and they collapse while you are frying.",
+      "Slice the onion into strips, and cut the spring onion and red chilli on the diagonal. Chop the salted shrimp finely.",
+      "Heat the oil in a pan and fry the minced garlic over medium heat for 30 seconds.",
+      "Add the zucchini and onion and stir-fry over high heat for 3 minutes. Do not stir constantly; turn them only now and then.",
+      "Add the salted shrimp and fry for 2 minutes more. The zucchini is cooked when the edges turn translucent.",
+      "Add the spring onion and red chilli, fry for 30 seconds, then turn off the heat.",
+      "Finish with the sesame oil and sesame seeds."
+    ],
+    "tips": [
+      "If you have no salted shrimp, use 1/3 tsp salt instead, added just before you turn off the heat.",
+      "High heat and a short time is the rule. Cooked slowly over medium-low heat, the squash gives up its water and turns to mush.",
+      "Finishing with perilla oil (deulgireum) makes it nuttier."
+    ]
+  },
+  "publishedAt": "2026-08-25"
+}
