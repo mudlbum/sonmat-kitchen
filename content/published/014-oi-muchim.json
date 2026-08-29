@@ -1,0 +1,172 @@
+{
+  "slug": "oi-muchim",
+  "title": "오이무침",
+  "titleEn": "Spicy Cucumber Salad",
+  "summary": "소금에 절여 물기를 뺀 뒤 무칩니다. 절이는 15분이 아삭함을 만듭니다.",
+  "category": "반찬",
+  "tags": [
+    "오이",
+    "무침",
+    "10분"
+  ],
+  "servings": 3,
+  "prepMinutes": 20,
+  "cookMinutes": 0,
+  "difficulty": "쉬움",
+  "intro": "오이무침에서 물이 흥건히 나오는 것은 절이는 단계를 건너뛰었기 때문입니다. 미리 소금에 절여 물을 빼 두면 양념이 묽어지지 않고 오이도 더 아삭합니다.\n\n절인 뒤 헹구지 말고 손으로만 짜세요. 헹구면 밑간이 다 빠집니다.",
+  "ingredients": [
+    {
+      "group": "주재료",
+      "items": [
+        {
+          "name": "오이",
+          "amount": "2개"
+        },
+        {
+          "name": "소금 (절임용)",
+          "amount": "1작은술"
+        },
+        {
+          "name": "양파",
+          "amount": "1/4개"
+        },
+        {
+          "name": "당근",
+          "amount": "약간"
+        }
+      ]
+    },
+    {
+      "group": "양념",
+      "items": [
+        {
+          "name": "고춧가루",
+          "amount": "1.5큰술"
+        },
+        {
+          "name": "식초",
+          "amount": "1.5큰술"
+        },
+        {
+          "name": "설탕",
+          "amount": "1큰술"
+        },
+        {
+          "name": "다진 마늘",
+          "amount": "1작은술"
+        },
+        {
+          "name": "까나리액젓",
+          "amount": "1작은술"
+        },
+        {
+          "name": "참기름",
+          "amount": "1작은술"
+        },
+        {
+          "name": "통깨",
+          "amount": "1작은술"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "오이는 굵은소금으로 문질러 씻고 헹굽니다. 돌기가 거슬리면 칼등으로 긁어냅니다.",
+    "어슷하게 0.4cm 두께로 썹니다.",
+    "소금 1작은술을 뿌려 섞고 15분 둡니다.",
+    "물이 고이면 손으로 가볍게 짭니다. 헹구지 않습니다.",
+    "양파는 얇게 채 썰어 찬물에 5분 담갔다 건지고, 당근도 가늘게 채 썹니다.",
+    "볼에 고춧가루와 식초, 설탕, 다진 마늘, 액젓을 먼저 섞어 양념을 만듭니다.",
+    "오이와 양파, 당근을 넣고 손으로 가볍게 버무립니다. 세게 주무르면 물이 나옵니다.",
+    "참기름과 통깨를 넣어 마무리합니다."
+  ],
+  "tips": [
+    "무친 직후보다 냉장고에서 20분 두었다 먹는 편이 간이 고릅니다. 하루를 넘기면 물이 생깁니다.",
+    "액젓이 없으면 소금 1/3작은술로 대신하되 감칠맛은 덜합니다.",
+    "고춧가루는 고운 것을 쓰면 색이 곱게 입혀집니다."
+  ],
+  "en": {
+    "title": "Spicy Cucumber Salad",
+    "summary": "The cucumber is salted and drained before it is dressed. Those 15 minutes of salting are what make it crisp.",
+    "category": "Side Dishes",
+    "difficulty": "Easy",
+    "tags": [
+      "cucumber",
+      "seasoned salad",
+      "10 minutes"
+    ],
+    "intro": "A cucumber salad that sits in a pool of liquid is one where the salting step was skipped. Salting the cucumber ahead of time and letting the water drain keeps the dressing from thinning out and leaves the cucumber crisper.\n\nAfter salting, do not rinse — just squeeze by hand. Rinsing washes out all the base seasoning.",
+    "ingredients": [
+      {
+        "group": "Main",
+        "items": [
+          {
+            "name": "Cucumbers",
+            "amount": "2"
+          },
+          {
+            "name": "Salt (for salting)",
+            "amount": "1 tsp (5 mL)"
+          },
+          {
+            "name": "Onion",
+            "amount": "1/4"
+          },
+          {
+            "name": "Carrot",
+            "amount": "a small piece"
+          }
+        ]
+      },
+      {
+        "group": "Seasoning",
+        "items": [
+          {
+            "name": "Korean chilli flakes (gochugaru)",
+            "amount": "1.5 Tbsp (22 mL)"
+          },
+          {
+            "name": "Vinegar",
+            "amount": "1.5 Tbsp (22 mL)"
+          },
+          {
+            "name": "Sugar",
+            "amount": "1 Tbsp (15 mL)"
+          },
+          {
+            "name": "Minced garlic",
+            "amount": "1 tsp (5 mL)"
+          },
+          {
+            "name": "Korean sand lance fish sauce (kkanari-aekjeot)",
+            "amount": "1 tsp (5 mL)"
+          },
+          {
+            "name": "Toasted sesame oil",
+            "amount": "1 tsp (5 mL)"
+          },
+          {
+            "name": "Toasted sesame seeds",
+            "amount": "1 tsp (5 mL)"
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Scrub the cucumbers with coarse salt and rinse them. If the bumps bother you, scrape them off with the back of a knife.",
+      "Slice on the diagonal, 0.4 cm (about 1/8 in) thick.",
+      "Sprinkle over 1 tsp (5 mL) salt, toss, and leave for 15 minutes.",
+      "Once liquid has pooled, squeeze the cucumber lightly by hand. Do not rinse it.",
+      "Slice the onion thinly, soak it in cold water for 5 minutes and drain; cut the carrot into fine matchsticks as well.",
+      "In a bowl, mix the chilli flakes, vinegar, sugar, minced garlic and fish sauce together first to make the dressing.",
+      "Add the cucumber, onion and carrot and toss lightly by hand. Kneading hard draws out water.",
+      "Finish with the sesame oil and sesame seeds."
+    ],
+    "tips": [
+      "It is more evenly seasoned after 20 minutes in the fridge than straight after mixing. Past a day it starts to weep.",
+      "With no fish sauce, use 1/3 tsp (about 1.5 mL) salt instead, though it will have less savoury depth.",
+      "Fine chilli flakes coat the cucumber in a more even colour."
+    ]
+  },
+  "publishedAt": "2026-08-29"
+}
