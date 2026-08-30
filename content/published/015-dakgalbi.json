@@ -1,0 +1,222 @@
+{
+  "slug": "dakgalbi",
+  "title": "닭갈비",
+  "titleEn": "Dakgalbi",
+  "summary": "닭다리살을 고추장 양념에 재워 채소와 함께 볶습니다. 팬 하나로 끝납니다.",
+  "category": "볶음",
+  "tags": [
+    "닭고기",
+    "고추장",
+    "매운맛"
+  ],
+  "servings": 3,
+  "prepMinutes": 25,
+  "cookMinutes": 20,
+  "difficulty": "보통",
+  "intro": "닭갈비는 가슴살이 아니라 다리살로 해야 합니다. 가슴살은 양념이 아무리 좋아도 볶는 동안 퍽퍽해집니다.\n\n양배추에서 물이 꽤 나오므로 물이나 육수는 따로 넣지 않습니다.",
+  "ingredients": [
+    {
+      "group": "주재료",
+      "items": [
+        {
+          "name": "닭다리살 (정육)",
+          "amount": "600g"
+        },
+        {
+          "name": "양배추",
+          "amount": "1/4통 (300g)"
+        },
+        {
+          "name": "고구마",
+          "amount": "1개"
+        },
+        {
+          "name": "양파",
+          "amount": "1개"
+        },
+        {
+          "name": "떡볶이 떡",
+          "amount": "150g"
+        },
+        {
+          "name": "깻잎",
+          "amount": "10장"
+        },
+        {
+          "name": "대파",
+          "amount": "1대"
+        },
+        {
+          "name": "식용유",
+          "amount": "2큰술"
+        }
+      ]
+    },
+    {
+      "group": "양념장",
+      "items": [
+        {
+          "name": "고추장",
+          "amount": "3큰술"
+        },
+        {
+          "name": "고춧가루",
+          "amount": "2큰술"
+        },
+        {
+          "name": "간장",
+          "amount": "2큰술"
+        },
+        {
+          "name": "설탕",
+          "amount": "1.5큰술"
+        },
+        {
+          "name": "다진 마늘",
+          "amount": "1.5큰술"
+        },
+        {
+          "name": "다진 생강",
+          "amount": "1/2작은술"
+        },
+        {
+          "name": "맛술",
+          "amount": "3큰술"
+        },
+        {
+          "name": "카레가루",
+          "amount": "1작은술"
+        },
+        {
+          "name": "후춧가루",
+          "amount": "약간"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "닭다리살은 한입 크기로 썰고, 기름 덩어리는 떼어 냅니다.",
+    "양념장 재료를 모두 섞어 닭고기에 붓고 조물조물 무칩니다. 냉장고에서 30분 이상 재웁니다.",
+    "양배추는 사방 3cm로 썰고, 고구마는 0.7cm 두께 반달로, 양파는 굵게 썹니다.",
+    "떡은 딱딱하면 미지근한 물에 10분 불립니다.",
+    "큰 팬에 식용유를 두르고 센불에서 재운 닭고기를 5분 볶습니다. 겉면이 익으면 됩니다.",
+    "고구마와 떡을 넣고 뚜껑을 덮어 중불에서 7분 익힙니다. 고구마가 가장 늦게 익습니다.",
+    "양배추와 양파를 넣고 뚜껑을 덮어 5분 더 익힙니다. 양배추에서 물이 나와 눌어붙지 않습니다.",
+    "뚜껑을 열고 센불로 올려 국물을 3분 졸입니다.",
+    "깻잎과 어슷 썬 대파를 넣고 30초 볶은 뒤 불을 끕니다."
+  ],
+  "tips": [
+    "카레가루 1작은술은 닭 냄새를 잡아 줍니다. 없으면 생략해도 되지만 있으면 넣는 편이 낫습니다.",
+    "남은 양념에 밥과 김가루, 참기름을 넣고 볶으면 볶음밥이 됩니다.",
+    "덜 맵게 하려면 고춧가루만 1큰술로 줄이세요."
+  ],
+  "en": {
+    "title": "Dakgalbi",
+    "summary": "Boneless chicken thigh marinated in a gochujang sauce and stir-fried with vegetables. It is done in one pan.",
+    "category": "Stir-fries",
+    "difficulty": "Medium",
+    "tags": [
+      "chicken",
+      "gochujang",
+      "spicy"
+    ],
+    "intro": "Dakgalbi has to be made with thigh meat, not breast. However good the marinade is, breast meat turns dry as it stir-fries.\n\nThe cabbage releases a fair amount of liquid, so no water or stock goes in.",
+    "ingredients": [
+      {
+        "group": "Main",
+        "items": [
+          {
+            "name": "Boneless chicken thigh",
+            "amount": "600 g (1 lb 5 oz)"
+          },
+          {
+            "name": "Cabbage",
+            "amount": "1/4 head (300 g / 10 1/2 oz)"
+          },
+          {
+            "name": "Sweet potato",
+            "amount": "1"
+          },
+          {
+            "name": "Onion",
+            "amount": "1"
+          },
+          {
+            "name": "Korean rice cakes (tteokbokki-tteok)",
+            "amount": "150 g (5 1/4 oz)"
+          },
+          {
+            "name": "Perilla leaves (kkaennip)",
+            "amount": "10 leaves"
+          },
+          {
+            "name": "Korean leek / large spring onion",
+            "amount": "1"
+          },
+          {
+            "name": "Cooking oil",
+            "amount": "2 Tbsp (30 mL)"
+          }
+        ]
+      },
+      {
+        "group": "Sauce",
+        "items": [
+          {
+            "name": "Korean chilli paste (gochujang)",
+            "amount": "3 Tbsp (45 mL)"
+          },
+          {
+            "name": "Korean chilli flakes (gochugaru)",
+            "amount": "2 Tbsp (30 mL)"
+          },
+          {
+            "name": "Soy sauce",
+            "amount": "2 Tbsp (30 mL)"
+          },
+          {
+            "name": "Sugar",
+            "amount": "1.5 Tbsp (22 mL)"
+          },
+          {
+            "name": "Minced garlic",
+            "amount": "1.5 Tbsp (22 mL)"
+          },
+          {
+            "name": "Minced ginger",
+            "amount": "1/2 tsp (2.5 mL)"
+          },
+          {
+            "name": "Korean cooking wine (matsul; mirin works)",
+            "amount": "3 Tbsp (45 mL)"
+          },
+          {
+            "name": "Curry powder",
+            "amount": "1 tsp (5 mL)"
+          },
+          {
+            "name": "Ground black pepper",
+            "amount": "a pinch"
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Cut the chicken thigh into bite-sized pieces and pull off any lumps of fat.",
+      "Mix all the sauce ingredients together, pour them over the chicken and work them in with your hands. Marinate in the fridge for at least 30 minutes.",
+      "Cut the cabbage into 3 cm (1 1/4 in) squares, the sweet potato into 0.7 cm (1/4 in) half-moons, and the onion into thick pieces.",
+      "If the rice cakes are hard, soak them in lukewarm water for 10 minutes.",
+      "Heat the cooking oil in a large pan and stir-fry the marinated chicken over high heat for 5 minutes. The outside just needs to be cooked.",
+      "Add the sweet potato and rice cakes, cover, and cook over medium heat for 7 minutes. The sweet potato is the slowest thing to cook.",
+      "Add the cabbage and onion, cover, and cook for 5 minutes more. The cabbage releases liquid, so nothing catches on the pan.",
+      "Take off the lid, turn the heat to high and reduce the liquid for 3 minutes.",
+      "Add the perilla leaves and the diagonally sliced Korean leek, stir-fry for 30 seconds, then turn off the heat."
+    ],
+    "tips": [
+      "The 1 tsp (5 mL) of curry powder keeps the smell of the chicken in check. You can leave it out, but it is better in.",
+      "Stir rice, seaweed flakes and sesame oil into the sauce left in the pan and you have fried rice.",
+      "For a milder version, cut the chilli flakes alone down to 1 Tbsp (15 mL)."
+    ]
+  },
+  "publishedAt": "2026-08-30"
+}
