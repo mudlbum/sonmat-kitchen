@@ -1,0 +1,158 @@
+{
+  "slug": "kimchi-jeon",
+  "title": "김치전",
+  "titleEn": "Kimchi Pancake",
+  "summary": "반죽은 묽게, 팬은 뜨겁게, 기름은 넉넉히. 바삭함은 이 셋에서 나옵니다.",
+  "category": "전",
+  "tags": [
+    "김치",
+    "간식",
+    "15분"
+  ],
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 12,
+  "difficulty": "쉬움",
+  "intro": "김치전이 눅눅한 것은 대개 반죽이 되직해서입니다. 되직한 반죽은 두껍게 퍼지고, 두꺼우면 속이 익는 동안 겉이 눅습니다.\n\n숟가락으로 떠서 주르륵 흘러내리는 농도가 맞습니다. 그리고 기름을 아끼지 마세요.",
+  "ingredients": [
+    {
+      "group": "반죽",
+      "items": [
+        {
+          "name": "신 김치",
+          "amount": "200g"
+        },
+        {
+          "name": "김치국물",
+          "amount": "4큰술"
+        },
+        {
+          "name": "부침가루",
+          "amount": "1컵 (100g)"
+        },
+        {
+          "name": "찬물",
+          "amount": "150mL"
+        },
+        {
+          "name": "계란",
+          "amount": "1개 (선택)"
+        },
+        {
+          "name": "설탕",
+          "amount": "1/2작은술"
+        }
+      ]
+    },
+    {
+      "group": "기타",
+      "items": [
+        {
+          "name": "대파",
+          "amount": "1/2대"
+        },
+        {
+          "name": "청양고추 (선택)",
+          "amount": "1개"
+        },
+        {
+          "name": "식용유",
+          "amount": "5큰술"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "김치는 국물을 짜지 말고 그대로 2cm 폭으로 썹니다.",
+    "대파는 어슷 썰고, 청양고추는 잘게 썹니다.",
+    "볼에 부침가루와 찬물, 김치국물, 설탕을 넣고 섞습니다. 계란을 넣으면 부드러워지고, 넣지 않으면 더 바삭합니다.",
+    "반죽 농도를 확인합니다. 숟가락에서 끊기지 않고 흘러내려야 합니다. 되면 물을 1큰술씩 더합니다.",
+    "김치와 대파, 고추를 넣고 섞습니다.",
+    "팬을 센불에 충분히 달굽니다. 손을 대 보지 말고, 물 한 방울을 떨어뜨려 바로 튀면 됐습니다.",
+    "식용유 3큰술을 두르고 반죽을 부어 얇게 폅니다. 두께는 5mm를 넘기지 않습니다.",
+    "중강불에서 3분 굽습니다. 가장자리가 노릇하게 들리면 뒤집습니다.",
+    "남은 기름을 팬 가장자리로 둘러 넣고 3분 더 굽습니다. 주걱으로 꾹 눌러 주면 더 바삭합니다."
+  ],
+  "tips": [
+    "반죽은 만들자마자 부치세요. 두면 김치에서 물이 나와 묽어지고 글루텐이 생겨 질겨집니다.",
+    "부침가루가 없으면 밀가루 1컵에 소금 1/3작은술을 섞어 쓰면 됩니다.",
+    "한 번에 크게 부치는 것보다 작게 두 장으로 나누는 편이 뒤집기 쉽고 더 바삭합니다."
+  ],
+  "en": {
+    "title": "Kimchi Pancake",
+    "summary": "Thin batter, hot pan, plenty of oil. The crispness comes from those three things.",
+    "category": "Pancakes",
+    "difficulty": "Easy",
+    "tags": [
+      "kimchi",
+      "snack",
+      "15 minutes"
+    ],
+    "intro": "A soggy kimchi pancake is usually down to batter that is too thick. Thick batter spreads heavily, and once it is thick the outside goes limp while the inside cooks through.\n\nThe right consistency runs off a spoon in a steady stream. And do not be sparing with the oil.",
+    "ingredients": [
+      {
+        "group": "Batter",
+        "items": [
+          {
+            "name": "Sour kimchi",
+            "amount": "200 g (7 oz)"
+          },
+          {
+            "name": "Kimchi brine",
+            "amount": "4 Tbsp (60 mL)"
+          },
+          {
+            "name": "Korean pancake mix (buchim-garu)",
+            "amount": "1 cup (100 g / 3 1/2 oz)"
+          },
+          {
+            "name": "Cold water",
+            "amount": "150 mL (2/3 cup)"
+          },
+          {
+            "name": "Egg",
+            "amount": "1 (optional)"
+          },
+          {
+            "name": "Sugar",
+            "amount": "1/2 tsp (2.5 mL)"
+          }
+        ]
+      },
+      {
+        "group": "Other",
+        "items": [
+          {
+            "name": "Korean leek / large spring onion",
+            "amount": "1/2"
+          },
+          {
+            "name": "Cheongyang chilli, optional",
+            "amount": "1"
+          },
+          {
+            "name": "Cooking oil",
+            "amount": "5 Tbsp (75 mL)"
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Cut the kimchi into 2 cm (3/4 in) wide pieces as it is, without squeezing out the brine.",
+      "Slice the Korean leek on the diagonal and chop the cheongyang chilli finely.",
+      "In a bowl, mix the pancake mix, cold water, kimchi brine and sugar. The egg makes the pancake softer; leaving it out makes it crisper.",
+      "Check the consistency of the batter. It should run off the spoon in an unbroken stream. If it is too thick, add water 1 Tbsp (15 mL) at a time.",
+      "Stir in the kimchi, Korean leek and chilli.",
+      "Heat the pan thoroughly over high heat. Do not test it with your hand — drop in a bead of water, and it is ready when the water spits straight away.",
+      "Add 3 Tbsp (45 mL) of the cooking oil, pour in the batter and spread it thin. Keep it no more than 5 mm (1/4 in) thick.",
+      "Cook over medium-high heat for 3 minutes. Flip it when the edges lift and turn golden.",
+      "Pour the remaining oil around the rim of the pan and cook for 3 minutes more. Pressing down firmly with a spatula makes it crisper."
+    ],
+    "tips": [
+      "Fry the batter as soon as you have mixed it. Left standing, the kimchi releases water and thins it out, and gluten develops that makes it tough.",
+      "With no Korean pancake mix, use 1 cup (200 mL) plain flour mixed with 1/3 tsp (about 1.5 mL) salt.",
+      "Two smaller pancakes are easier to flip and come out crisper than one large one."
+    ]
+  },
+  "publishedAt": "2026-09-01"
+}
