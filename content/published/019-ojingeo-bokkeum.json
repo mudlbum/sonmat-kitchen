@@ -1,0 +1,206 @@
+{
+  "slug": "ojingeo-bokkeum",
+  "title": "오징어볶음",
+  "titleEn": "Spicy Squid Stir-fry",
+  "summary": "오징어는 센불에 짧게. 3분을 넘기면 질겨집니다.",
+  "category": "볶음",
+  "tags": [
+    "오징어",
+    "고추장",
+    "매운맛"
+  ],
+  "servings": 3,
+  "prepMinutes": 20,
+  "cookMinutes": 10,
+  "difficulty": "보통",
+  "intro": "오징어는 익는 데 2~3분이면 충분합니다. 그 뒤로는 계속 질겨지기만 합니다.\n\n그래서 채소를 먼저 볶아 두고, 오징어는 마지막에 넣어 짧게 볶는 순서가 중요합니다. 칼집을 넣으면 양념도 잘 배고 익는 속도도 고릅니다.",
+  "ingredients": [
+    {
+      "group": "주재료",
+      "items": [
+        {
+          "name": "오징어",
+          "amount": "2마리 (600g)"
+        },
+        {
+          "name": "양파",
+          "amount": "1개"
+        },
+        {
+          "name": "당근",
+          "amount": "1/3개"
+        },
+        {
+          "name": "양배추",
+          "amount": "150g"
+        },
+        {
+          "name": "대파",
+          "amount": "1대"
+        },
+        {
+          "name": "청양고추",
+          "amount": "2개"
+        },
+        {
+          "name": "식용유",
+          "amount": "2큰술"
+        }
+      ]
+    },
+    {
+      "group": "양념장",
+      "items": [
+        {
+          "name": "고추장",
+          "amount": "2큰술"
+        },
+        {
+          "name": "고춧가루",
+          "amount": "2큰술"
+        },
+        {
+          "name": "간장",
+          "amount": "1.5큰술"
+        },
+        {
+          "name": "설탕",
+          "amount": "1큰술"
+        },
+        {
+          "name": "다진 마늘",
+          "amount": "1.5큰술"
+        },
+        {
+          "name": "다진 생강",
+          "amount": "1/3작은술"
+        },
+        {
+          "name": "맛술",
+          "amount": "2큰술"
+        },
+        {
+          "name": "참기름",
+          "amount": "1큰술"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "오징어는 몸통을 갈라 내장을 빼고 껍질을 벗깁니다. 껍질은 키친타월로 잡으면 잘 벗겨집니다.",
+    "몸통 안쪽에 사선으로 칼집을 촘촘히 넣고 한입 크기로 썹니다. 다리는 5cm로 자릅니다.",
+    "끓는 물에 오징어를 20초만 데쳐 건집니다. 물기를 빼 두면 볶을 때 물이 덜 나옵니다.",
+    "양념장 재료를 모두 섞습니다.",
+    "양파와 양배추는 굵게, 당근은 얇게 썰고, 대파와 청양고추는 어슷 썹니다.",
+    "팬에 식용유를 두르고 센불에서 양파와 당근, 양배추를 3분 볶습니다.",
+    "양념장을 넣고 1분 볶아 채소에 입힙니다.",
+    "오징어를 넣고 센불에서 2~3분만 재빨리 볶습니다.",
+    "대파와 청양고추를 넣고 30초 볶은 뒤 불을 끕니다."
+  ],
+  "tips": [
+    "데치는 20초는 물을 미리 빼기 위한 것입니다. 생략하면 볶는 중 물이 나와 양념이 묽어집니다.",
+    "오징어가 질겨졌다면 이미 되돌릴 수 없습니다. 다음에는 30초 일찍 불을 끄세요.",
+    "남으면 소면을 삶아 비벼 먹습니다."
+  ],
+  "en": {
+    "title": "Spicy Squid Stir-fry",
+    "summary": "Squid goes over high heat, and only briefly. Past three minutes it turns rubbery.",
+    "category": "Stir-fries",
+    "difficulty": "Medium",
+    "tags": [
+      "squid",
+      "gochujang",
+      "spicy"
+    ],
+    "intro": "Squid needs only two or three minutes to cook through. After that it just keeps getting tougher.\n\nThat is why the order matters: stir-fry the vegetables first, then add the squid at the end and cook it briefly. Scoring the flesh helps the seasoning soak in and keeps the cooking even.",
+    "ingredients": [
+      {
+        "group": "Main",
+        "items": [
+          {
+            "name": "Squid",
+            "amount": "2 squid, 600 g (1 lb 5 oz)"
+          },
+          {
+            "name": "Onion",
+            "amount": "1"
+          },
+          {
+            "name": "Carrot",
+            "amount": "1/3"
+          },
+          {
+            "name": "Cabbage",
+            "amount": "150 g (5 oz)"
+          },
+          {
+            "name": "Korean leek / large spring onion",
+            "amount": "1"
+          },
+          {
+            "name": "Korean green chillies (cheongyang-gochu; substitute serrano)",
+            "amount": "2"
+          },
+          {
+            "name": "Cooking oil",
+            "amount": "2 Tbsp (30 mL)"
+          }
+        ]
+      },
+      {
+        "group": "Sauce",
+        "items": [
+          {
+            "name": "Korean chilli paste (gochujang)",
+            "amount": "2 Tbsp (30 mL)"
+          },
+          {
+            "name": "Korean chilli flakes (gochugaru)",
+            "amount": "2 Tbsp (30 mL)"
+          },
+          {
+            "name": "Soy sauce",
+            "amount": "1 1/2 Tbsp (22 mL)"
+          },
+          {
+            "name": "Sugar",
+            "amount": "1 Tbsp (15 mL)"
+          },
+          {
+            "name": "Minced garlic",
+            "amount": "1 1/2 Tbsp (22 mL)"
+          },
+          {
+            "name": "Minced ginger",
+            "amount": "1/3 tsp"
+          },
+          {
+            "name": "Cooking wine (matsul; mirin works)",
+            "amount": "2 Tbsp (30 mL)"
+          },
+          {
+            "name": "Toasted sesame oil",
+            "amount": "1 Tbsp (15 mL)"
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Split the squid bodies open, pull out the innards and peel off the skin. Gripping the skin with a paper towel makes it come away easily.",
+      "Score the inside of the body with close diagonal cuts and slice into bite-sized pieces. Cut the tentacles into 5 cm (2 in) lengths.",
+      "Blanch the squid in boiling water for just 20 seconds, then lift it out. Draining it well means less water comes out in the pan.",
+      "Mix all the sauce ingredients together.",
+      "Cut the onion and cabbage into large pieces, slice the carrot thinly, and cut the leek and green chillies on the diagonal.",
+      "Heat the cooking oil in a pan and stir-fry the onion, carrot and cabbage over high heat for 3 minutes.",
+      "Add the sauce and stir-fry for 1 minute to coat the vegetables.",
+      "Add the squid and stir-fry quickly over high heat for just 2 to 3 minutes.",
+      "Add the leek and green chillies, stir-fry for 30 seconds, then turn off the heat."
+    ],
+    "tips": [
+      "The 20-second blanch is there to drive off water in advance. Skip it and water seeps out during frying, thinning the sauce.",
+      "Once the squid has gone rubbery there is no bringing it back. Next time, turn off the heat 30 seconds earlier.",
+      "Toss any leftovers with boiled thin wheat noodles (somyeon)."
+    ]
+  },
+  "publishedAt": "2026-09-03"
+}
