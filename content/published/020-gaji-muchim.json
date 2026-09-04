@@ -1,0 +1,146 @@
+{
+  "slug": "gaji-muchim",
+  "title": "가지무침",
+  "titleEn": "Seasoned Eggplant",
+  "summary": "찜기에 쪄서 결대로 찢어 무칩니다. 물에 삶으면 물러집니다.",
+  "category": "반찬",
+  "tags": [
+    "가지",
+    "채식",
+    "나물"
+  ],
+  "servings": 3,
+  "prepMinutes": 10,
+  "cookMinutes": 8,
+  "difficulty": "쉬움",
+  "intro": "가지는 물에 삶으면 스펀지처럼 물을 먹어 흐물거립니다. 쪄야 형태가 남고 단맛도 지켜집니다.\n\n찜기가 없으면 전자레인지도 됩니다. 접시에 담아 랩을 씌우고 3분이면 비슷하게 됩니다.",
+  "ingredients": [
+    {
+      "group": "주재료",
+      "items": [
+        {
+          "name": "가지",
+          "amount": "3개"
+        }
+      ]
+    },
+    {
+      "group": "양념",
+      "items": [
+        {
+          "name": "간장",
+          "amount": "1.5큰술"
+        },
+        {
+          "name": "다진 마늘",
+          "amount": "1작은술"
+        },
+        {
+          "name": "다진 대파",
+          "amount": "1큰술"
+        },
+        {
+          "name": "고춧가루",
+          "amount": "1작은술"
+        },
+        {
+          "name": "참기름",
+          "amount": "1큰술"
+        },
+        {
+          "name": "통깨",
+          "amount": "1작은술"
+        },
+        {
+          "name": "설탕",
+          "amount": "1/3작은술"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "가지는 꼭지를 자르고 길이로 반 가른 뒤 다시 반으로 자릅니다.",
+    "찜기에 김이 오르면 가지를 껍질이 아래로 가게 놓고 6~7분 찝니다. 젓가락이 쑥 들어가면 됐습니다.",
+    "찐 가지를 채반에 펼쳐 한 김 식힙니다. 겹쳐 두면 물이 고입니다.",
+    "손으로 만질 만해지면 결을 따라 길게 찢습니다. 칼로 썰면 물이 빠져나옵니다.",
+    "양념 재료를 볼에 모두 섞습니다.",
+    "가지를 넣고 손으로 가볍게 무칩니다. 세게 주무르면 뭉개집니다.",
+    "5분 두었다가 냅니다. 그동안 간이 뱁니다."
+  ],
+  "tips": [
+    "전자레인지를 쓸 때는 700W 기준 3분입니다. 나온 물은 따라 버리세요.",
+    "따뜻할 때 무치면 간이 잘 배고, 차게 먹으려면 냉장고에 20분 둡니다.",
+    "들기름으로 바꾸면 훨씬 구수합니다. 가지와 들기름은 특히 잘 맞습니다."
+  ],
+  "en": {
+    "title": "Seasoned Eggplant",
+    "summary": "Steam it, tear it along the grain, then dress it. Boiled in water it goes soggy.",
+    "category": "Side Dishes",
+    "difficulty": "Easy",
+    "tags": [
+      "aubergine",
+      "vegetarian",
+      "seasoned greens"
+    ],
+    "intro": "Boiled in water, aubergine soaks up liquid like a sponge and turns limp. Steaming keeps its shape and holds on to its sweetness.\n\nA microwave works if you have no steamer. Put it on a plate, cover it with cling film, and 3 minutes gets you close to the same result.",
+    "ingredients": [
+      {
+        "group": "Main",
+        "items": [
+          {
+            "name": "Aubergine / eggplant",
+            "amount": "3"
+          }
+        ]
+      },
+      {
+        "group": "Seasoning",
+        "items": [
+          {
+            "name": "Soy sauce",
+            "amount": "1 1/2 Tbsp (22 mL)"
+          },
+          {
+            "name": "Minced garlic",
+            "amount": "1 tsp (5 mL)"
+          },
+          {
+            "name": "Finely chopped Korean leek / large spring onion",
+            "amount": "1 Tbsp (15 mL)"
+          },
+          {
+            "name": "Korean chilli flakes (gochugaru)",
+            "amount": "1 tsp (5 mL)"
+          },
+          {
+            "name": "Toasted sesame oil",
+            "amount": "1 Tbsp (15 mL)"
+          },
+          {
+            "name": "Toasted sesame seeds",
+            "amount": "1 tsp (5 mL)"
+          },
+          {
+            "name": "Sugar",
+            "amount": "1/3 tsp"
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Cut the stems off the aubergines, halve them lengthways, then cut each half in half again.",
+      "When the steamer is at a full head of steam, lay the aubergine in skin side down and steam for 6 to 7 minutes. It is ready when a chopstick slides straight through.",
+      "Spread the steamed aubergine out on a rack and let it cool slightly. Piled up, it sits in its own water.",
+      "Once it is cool enough to handle, tear it into long strips along the grain. Cutting it with a knife lets the juices run out.",
+      "Mix all the seasoning ingredients in a bowl.",
+      "Add the aubergine and dress it lightly with your hands. Kneading it hard turns it to pulp.",
+      "Leave it for 5 minutes before serving. That is when the seasoning soaks in."
+    ],
+    "tips": [
+      "In a microwave, 3 minutes at 700 W. Pour off the water that collects.",
+      "Dressing it while warm helps the seasoning soak in; to eat it cold, put it in the fridge for 20 minutes.",
+      "Swapping in perilla oil makes it much nuttier. Aubergine and perilla oil go together particularly well."
+    ]
+  },
+  "publishedAt": "2026-09-04"
+}
