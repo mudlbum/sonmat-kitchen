@@ -1,0 +1,174 @@
+{
+  "slug": "tteokguk",
+  "title": "떡국",
+  "titleEn": "Rice Cake Soup",
+  "summary": "떡은 미리 불려 두고, 국물이 팔팔 끓을 때 넣습니다.",
+  "category": "국",
+  "tags": [
+    "떡",
+    "소고기",
+    "명절"
+  ],
+  "servings": 3,
+  "prepMinutes": 15,
+  "cookMinutes": 25,
+  "difficulty": "쉬움",
+  "intro": "떡국 국물이 걸쭉하고 뿌예지는 것은 떡을 너무 오래 끓였기 때문입니다. 떡에서 전분이 계속 빠져나옵니다.\n\n떡은 마지막 5분에만 넣습니다. 그 전에 국물을 완성해 두세요.",
+  "ingredients": [
+    {
+      "group": "국물",
+      "items": [
+        {
+          "name": "소고기 양지",
+          "amount": "200g"
+        },
+        {
+          "name": "물",
+          "amount": "1.5L"
+        },
+        {
+          "name": "대파 뿌리 쪽",
+          "amount": "1대분"
+        },
+        {
+          "name": "마늘",
+          "amount": "4쪽"
+        },
+        {
+          "name": "국간장",
+          "amount": "2큰술"
+        },
+        {
+          "name": "참기름",
+          "amount": "1큰술"
+        }
+      ]
+    },
+    {
+      "group": "주재료와 고명",
+      "items": [
+        {
+          "name": "떡국떡",
+          "amount": "500g"
+        },
+        {
+          "name": "계란",
+          "amount": "2개"
+        },
+        {
+          "name": "대파",
+          "amount": "1/2대"
+        },
+        {
+          "name": "김",
+          "amount": "1장"
+        },
+        {
+          "name": "후춧가루",
+          "amount": "약간"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "떡국떡을 찬물에 20분 담가 둡니다. 냉동떡이면 30분.",
+    "소고기 양지는 찬물에 20분 담가 핏물을 뺍니다.",
+    "냄비에 참기름을 두르고 양지를 중불에서 3분 볶습니다.",
+    "물 1.5L와 대파 뿌리, 마늘을 넣고 센불에서 끓입니다. 끓어오르면 거품을 걷어 내고 중약불에서 20분 끓입니다.",
+    "고기를 건져 결대로 찢고, 국물은 체에 걸러 건더기를 제거합니다.",
+    "계란은 흰자와 노른자를 나눠 지단을 부치고 채 썹니다. 번거로우면 국물에 풀어 넣어도 됩니다.",
+    "국물에 국간장을 넣고 간을 맞춥니다. 다시 팔팔 끓입니다.",
+    "불린 떡을 건져 넣고 4~5분 끓입니다. 떡이 떠오르고 말랑해지면 다 된 것입니다.",
+    "그릇에 담고 찢은 고기, 지단, 김가루, 어슷 썬 대파를 올립니다. 후춧가루를 뿌립니다."
+  ],
+  "tips": [
+    "국물은 하루 전에 내어 두면 기름이 굳어 걷어 내기 쉽습니다. 국물이 훨씬 맑아집니다.",
+    "남은 떡국은 떡이 국물을 다 먹어 버립니다. 국물을 넉넉히 잡거나 먹을 만큼만 끓이세요.",
+    "만두를 함께 넣으면 떡만둣국이 됩니다. 만두는 떡과 같은 때 넣습니다."
+  ],
+  "en": {
+    "title": "Rice Cake Soup",
+    "summary": "Soak the rice cakes ahead of time, and add them only when the broth is at a rolling boil.",
+    "category": "Soups",
+    "difficulty": "Easy",
+    "tags": [
+      "rice cake",
+      "beef",
+      "holiday"
+    ],
+    "intro": "Tteokguk broth turns thick and cloudy because the rice cakes have been boiled too long. Starch keeps leaching out of them.\n\nAdd the rice cakes only for the last 5 minutes. Have the broth finished before that.",
+    "ingredients": [
+      {
+        "group": "Broth",
+        "items": [
+          {
+            "name": "Beef brisket",
+            "amount": "200 g (7 oz)"
+          },
+          {
+            "name": "Water",
+            "amount": "1.5 L (6 1/4 cups)"
+          },
+          {
+            "name": "Root end of a Korean leek / large spring onion",
+            "amount": "from 1 leek"
+          },
+          {
+            "name": "Garlic",
+            "amount": "4 cloves"
+          },
+          {
+            "name": "Soup soy sauce (guk-ganjang)",
+            "amount": "2 Tbsp (30 mL)"
+          },
+          {
+            "name": "Toasted sesame oil",
+            "amount": "1 Tbsp (15 mL)"
+          }
+        ]
+      },
+      {
+        "group": "Main and toppings",
+        "items": [
+          {
+            "name": "Sliced rice cakes (tteokguk-tteok)",
+            "amount": "500 g (1 lb 2 oz)"
+          },
+          {
+            "name": "Eggs",
+            "amount": "2"
+          },
+          {
+            "name": "Korean leek / large spring onion",
+            "amount": "1/2"
+          },
+          {
+            "name": "Dried seaweed sheet (gim; nori works)",
+            "amount": "1 sheet"
+          },
+          {
+            "name": "Ground black pepper",
+            "amount": "a pinch"
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Soak the rice cakes in cold water for 20 minutes. Frozen ones need 30.",
+      "Soak the beef brisket in cold water for 20 minutes to draw out the blood.",
+      "Heat the sesame oil in a pot and fry the brisket over medium heat for 3 minutes.",
+      "Add 1.5 L (6 1/4 cups) water, the leek root and the garlic, and bring to the boil over high heat. Once it boils, skim off the foam and simmer over medium-low heat for 20 minutes.",
+      "Lift out the beef and tear it along the grain; strain the broth to remove the solids.",
+      "Separate the eggs, fry the whites and yolks into thin sheets (jidan) and cut them into strips. If that is too much bother, beat the eggs and stir them into the broth instead.",
+      "Season the broth with the soup soy sauce and check the salt. Bring it back to a hard boil.",
+      "Drain the soaked rice cakes, add them and boil for 4 to 5 minutes. They are done when they float and turn soft.",
+      "Ladle into bowls and top with the torn beef, the egg strips, crumbled seaweed and diagonally sliced leek. Finish with black pepper."
+    ],
+    "tips": [
+      "Make the broth a day ahead and the fat sets on top, so it lifts off easily. The broth comes out much clearer.",
+      "In leftover tteokguk the rice cakes drink up all the broth. Either make plenty of broth or cook only as much as you will eat.",
+      "Add dumplings and it becomes tteok-manduguk. Put the dumplings in at the same time as the rice cakes."
+    ]
+  },
+  "publishedAt": "2026-09-05"
+}
